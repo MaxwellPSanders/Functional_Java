@@ -1,0 +1,1488 @@
+County Name	County Pop	City Name	City Pop	No. Zip Codes
+Anderson County	41169	Cayuga	199	1
+Anderson County	41169	Elkhart	4460	1
+Anderson County	41169	Frankston	4830	1
+Anderson County	41169	Montalba	850	1
+Anderson County	41169	Neches	484	1
+Anderson County	41169	Palestine	28771	4
+Anderson County	41169	Tennessee Colony	1575	4
+Andrews County	17350	Andrews	17350	1
+Angelina County	77359	Diboll	7120	1
+Angelina County	77359	Huntington	6910	1
+Angelina County	77359	Lufkin	58269	5
+Angelina County	77359	Pollok	3120	1
+Angelina County	77359	Zavalla	1940	1
+Aransas County	19724	Fulton	2354	1
+Aransas County	19724	Rockport	17370	2
+Archer County	5745	Archer City	1720	1
+Archer County	5745	Holliday	1960	1
+Archer County	5745	Megargel	295	1
+Archer County	5745	Scotland	450	1
+Archer County	5745	Windthorst	1320	1
+Armstrong County	1677	Claude	1610	1
+Armstrong County	1677	Wayside	67	1
+Atascosa County	44002	Campbellton	260	1
+Atascosa County	44002	Charlotte	1900	1
+Atascosa County	44002	Christine	450	1
+Atascosa County	44002	Jourdanton	5550	1
+Atascosa County	44002	Leming	1172	1
+Atascosa County	44002	Lytle	6990	1
+Atascosa County	44002	Peggy	0	1
+Atascosa County	44002	Pleasanton	13470	1
+Atascosa County	44002	Poteet	9580	1
+Atascosa County	44002	Somerset	4630	1
+Austin County	28262	Bellville	8810	1
+Austin County	28262	Bleiblerville	240	1
+Austin County	28262	Industry	620	1
+Austin County	28262	Kenney	222	1
+Austin County	28262	New Ulm	1780	1
+Austin County	28262	San Felipe	490	1
+Austin County	28262	Sealy	13140	1
+Austin County	28262	Wallis	2960	1
+Bailey County	7714	Enochs	54	1
+Bailey County	7714	Maple	30	1
+Bailey County	7714	Muleshoe	7630	1
+Bandera County	17189	Bandera	7770	1
+Bandera County	17189	Medina	1310	1
+Bandera County	17189	Pipe Creek	7730	1
+Bandera County	17189	Tarpley	230	1
+Bandera County	17189	Vanderpool	149	1
+Bastrop County	72260	Bastrop	23720	1
+Bastrop County	72260	Cedar Creek	12470	1
+Bastrop County	72260	Elgin	21410	1
+Bastrop County	72260	Mc Dade	1370	1
+Bastrop County	72260	Paige	2510	1
+Bastrop County	72260	Red Rock	2110	1
+Bastrop County	72260	Rosanky	1010	1
+Bastrop County	72260	Smithville	7660	1
+Baylor County	2940	Seymour	2940	1
+Bee County	22551	Beeville	18951	2
+Bee County	22551	Mineral	145	1
+Bee County	22551	Normanna	230	1
+Bee County	22551	Pawnee	227	1
+Bee County	22551	Pettus	675	1
+Bee County	22551	Skidmore	1670	1
+Bee County	22551	Tuleta	373	1
+Bee County	22551	Tynan	280	1
+Bell County	311705	Belton	33020	1
+Bell County	311705	Burlington	490	1
+Bell County	311705	Fort Hood	23160	1
+Bell County	311705	Harker Heights	27060	1
+Bell County	311705	Heidenheimer	217	1
+Bell County	311705	Holland	2440	1
+Bell County	311705	Killeen	133741	7
+Bell County	311705	Little River Academy	2100	1
+Bell County	311705	Nolanville	4880	1
+Bell County	311705	Pendleton	202	1
+Bell County	311705	Rogers	2510	1
+Bell County	311705	Salado	7270	1
+Bell County	311705	Temple	70005	6
+Bell County	311705	Troy	4610	1
+Bexar County	1658879	Adkins	7890	1
+Bexar County	1658879	Atascosa	6860	1
+Bexar County	1658879	Boerne	13970	1
+Bexar County	1658879	Converse	41270	1
+Bexar County	1658879	Elmendorf	7800	1
+Bexar County	1658879	Helotes	27840	1
+Bexar County	1658879	Lackland A F B	2730	1
+Bexar County	1658879	Macdona	584	1
+Bexar County	1658879	Randolph A F B	553	1
+Bexar County	1658879	Saint Hedwig	2280	1
+Bexar County	1658879	San Antonio	1519992	84
+Bexar County	1658879	Universal City	19560	1
+Bexar County	1658879	Von Ormy	7550	1
+Blanco County	9158	Blanco	5040	1
+Blanco County	9158	Hye	108	1
+Blanco County	9158	Johnson City	3410	1
+Blanco County	9158	Round Mountain	600	1
+Borden County	310	Gail	310	1
+Bosque County	16079	Clifton	5870	1
+Bosque County	16079	Cranfills Gap	430	1
+Bosque County	16079	Iredell	610	1
+Bosque County	16079	Kopperl	870	1
+Bosque County	16079	Laguna Park	309	1
+Bosque County	16079	Meridian	2110	1
+Bosque County	16079	Morgan	1340	1
+Bosque County	16079	Valley Mills	3480	1
+Bosque County	16079	Walnut Springs	1060	1
+Bowie County	80977	De Kalb	4920	1
+Bowie County	80977	Hooks	4640	1
+Bowie County	80977	Maud	3400	1
+Bowie County	80977	Nash	3130	1
+Bowie County	80977	New Boston	7800	1
+Bowie County	80977	Redwater	1027	1
+Bowie County	80977	Simms	1550	1
+Bowie County	80977	Texarkana	54510	6
+Brazoria County	326560	Alvin	45933	2
+Brazoria County	326560	Angleton	27997	2
+Brazoria County	326560	Brazoria	11720	1
+Brazoria County	326560	Clute	14410	1
+Brazoria County	326560	Damon	2070	1
+Brazoria County	326560	Danbury	2970	1
+Brazoria County	326560	Danciger	42	1
+Brazoria County	326560	Freeport	15784	2
+Brazoria County	326560	Lake Jackson	28660	1
+Brazoria County	326560	Liverpool	1160	1
+Brazoria County	326560	Manvel	16600	1
+Brazoria County	326560	Old Ocean	330	1
+Brazoria County	326560	Pearland	122094	3
+Brazoria County	326560	Rosharon	23230	1
+Brazoria County	326560	Sweeny	6960	1
+Brazoria County	326560	West Columbia	6600	1
+Brazos County	152609	Bryan	82184	7
+Brazos County	152609	College Station	69597	6
+Brazos County	152609	Kurten	104	1
+Brazos County	152609	Millican	383	1
+Brazos County	152609	Wellborn	341	1
+Brewster County	7936	Alpine	6690	3
+Brewster County	7936	Big Bend National Park	208	1
+Brewster County	7936	Marathon	438	1
+Brewster County	7936	Terlingua	600	1
+Briscoe County	1260	Quitaque	410	1
+Briscoe County	1260	Silverton	850	1
+Brooks County	6470	Encino	270	1
+Brooks County	6470	Falfurrias	6200	1
+Brown County	31944	Bangs	2500	1
+Brown County	31944	Blanket	1130	1
+Brown County	31944	Brookesmith	350	1
+Brown County	31944	Brownwood	21594	3
+Brown County	31944	Early	4260	1
+Brown County	31944	May	1320	1
+Brown County	31944	Zephyr	790	1
+Burleson County	15848	Caldwell	10250	1
+Burleson County	15848	Chriesman	119	1
+Burleson County	15848	Deanville	222	1
+Burleson County	15848	Lyons	507	1
+Burleson County	15848	Snook	970	1
+Burleson County	15848	Somerville	3780	1
+Burnet County	33710	Bertram	4660	1
+Burnet County	33710	Briggs	480	1
+Burnet County	33710	Burnet	11640	1
+Burnet County	33710	Marble Falls	16930	1
+Caldwell County	35806	Dale	7710	1
+Caldwell County	35806	Fentress	399	1
+Caldwell County	35806	Lockhart	15770	1
+Caldwell County	35806	Luling	6730	1
+Caldwell County	35806	Martindale	2670	1
+Caldwell County	35806	Maxwell	2080	1
+Caldwell County	35806	Prairie Lea	447	1
+Calhoun County	19856	Point Comfort	770	1
+Calhoun County	19856	Port Lavaca	16320	1
+Calhoun County	19856	Port O Connor	916	1
+Calhoun County	19856	Seadrift	1850	1
+Callahan County	10908	Baird	2280	1
+Callahan County	10908	Clyde	6960	1
+Callahan County	10908	Cross Plains	1590	1
+Callahan County	10908	Putnam	78	1
+Cameron County	372336	Brownsville	192274	5
+Cameron County	372336	Combes	1516	1
+Cameron County	372336	Harlingen	77241	4
+Cameron County	372336	La Feria	10480	1
+Cameron County	372336	Los Fresnos	14880	1
+Cameron County	372336	Los Indios	1257	1
+Cameron County	372336	Lozano	588	1
+Cameron County	372336	Olmito	4230	1
+Cameron County	372336	Port Isabel	9400	1
+Cameron County	372336	Rio Hondo	5520	1
+Cameron County	372336	San Benito	46250	1
+Cameron County	372336	Santa Maria	1580	1
+Cameron County	372336	Santa Rosa	4940	1
+Cameron County	372336	South Padre Island	2180	1
+Camp County	12710	Leesburg	1040	1
+Camp County	12710	Pittsburg	11670	1
+Carson County	4980	Groom	690	1
+Carson County	4980	Panhandle	2770	1
+Carson County	4980	Skellytown	430	1
+Carson County	4980	White Deer	1090	1
+Cass County	24398	Atlanta	9330	1
+Cass County	24398	Bivins	1220	1
+Cass County	24398	Bloomburg	1140	1
+Cass County	24398	Douglassville	890	1
+Cass County	24398	Hughes Springs	4150	1
+Cass County	24398	Kildare	96	1
+Cass County	24398	Linden	3360	1
+Cass County	24398	Marietta	550	1
+Cass County	24398	Mc Leod	602	1
+Cass County	24398	Queen City	3060	1
+Castro County	6571	Dimmitt	4590	1
+Castro County	6571	Hart	1230	1
+Castro County	6571	Nazareth	690	1
+Castro County	6571	Summerfield	61	1
+Chambers County	36392	Anahuac	4690	1
+Chambers County	36392	Baytown	20410	1
+Chambers County	36392	Hankamer	960	1
+Chambers County	36392	Mont Belvieu	2626	1
+Chambers County	36392	Stowell	686	1
+Chambers County	36392	Wallisville	670	1
+Chambers County	36392	Winnie	6350	1
+Cherokee County	38085	Alto	3160	1
+Cherokee County	38085	Cuney	125	1
+Cherokee County	38085	Gallatin	269	1
+Cherokee County	38085	Jacksonville	23770	1
+Cherokee County	38085	Maydelle	162	1
+Cherokee County	38085	New Summerfield	1053	1
+Cherokee County	38085	Reklaw	580	1
+Cherokee County	38085	Rusk	7940	1
+Cherokee County	38085	Wells	1026	1
+Childress County	5086	Childress	5040	1
+Childress County	5086	Tell	46	1
+Clay County	6224	Bellevue	870	1
+Clay County	6224	Bluegrove	24	1
+Clay County	6224	Byers	590	1
+Clay County	6224	Henrietta	4100	1
+Clay County	6224	Petrolia	640	1
+Cochran County	2764	Bledsoe	64	1
+Cochran County	2764	Morton	2080	1
+Cochran County	2764	Whiteface	620	1
+Coke County	2744	Bronte	1180	1
+Coke County	2744	Robert Lee	1500	1
+Coke County	2744	Silver	0	1
+Coke County	2744	Tennyson	64	1
+Coleman County	6812	Burkett	154	1
+Coleman County	6812	Coleman	4500	1
+Coleman County	6812	Goldsboro	60	1
+Coleman County	6812	Gouldbusk	130	1
+Coleman County	6812	Novice	200	1
+Coleman County	6812	Rockwood	38	1
+Coleman County	6812	Santa Anna	1270	1
+Coleman County	6812	Talpa	210	1
+Coleman County	6812	Valera	167	1
+Coleman County	6812	Voss	83	1
+Collin County	809593	Allen	103880	2
+Collin County	809593	Anna	14220	1
+Collin County	809593	Blue Ridge	3170	1
+Collin County	809593	Celina	10590	1
+Collin County	809593	Copeville	575	1
+Collin County	809593	Dallas	21910	1
+Collin County	809593	Farmersville	8350	1
+Collin County	809593	Frisco	61020	2
+Collin County	809593	Josephine	633	1
+Collin County	809593	Lavon	4260	1
+Collin County	809593	Mckinney	169620	3
+Collin County	809593	Melissa	8600	1
+Collin County	809593	Nevada	4630	1
+Collin County	809593	Plano	289131	9
+Collin County	809593	Princeton	15500	1
+Collin County	809593	Prosper	18620	1
+Collin County	809593	Richardson	21030	1
+Collin County	809593	Westminster	314	1
+Collin County	809593	Weston	280	1
+Collin County	809593	Wylie	53260	1
+Collingsworth County	2521	Dodson	162	1
+Collingsworth County	2521	Quail	59	1
+Collingsworth County	2521	Sam Norwood	0	1
+Collingsworth County	2521	Wellington	2300	1
+Colorado County	19779	Alleyton	820	1
+Colorado County	19779	Altair	233	1
+Colorado County	19779	Cat Spring	1320	1
+Colorado County	19779	Columbus	6310	1
+Colorado County	19779	Eagle Lake	4360	1
+Colorado County	19779	Garwood	860	1
+Colorado County	19779	Glidden	350	1
+Colorado County	19779	Nada	278	1
+Colorado County	19779	Oakland	42	1
+Colorado County	19779	Rock Island	301	1
+Colorado County	19779	Sheridan	765	1
+Colorado County	19779	Weimar	4140	1
+Comal County	139461	Bulverde	10140	1
+Comal County	139461	Canyon Lake	15360	1
+Comal County	139461	Fischer	1050	1
+Comal County	139461	New Braunfels	90951	4
+Comal County	139461	San Antonio	6810	1
+Comal County	139461	Spring Branch	15150	1
+Comanche County	10679	Comanche	6300	1
+Comanche County	10679	De Leon	2920	1
+Comanche County	10679	Energy	79	1
+Comanche County	10679	Gustine	840	1
+Comanche County	10679	Proctor	250	1
+Comanche County	10679	Sidney	290	1
+Concho County	1726	Eden	1120	1
+Concho County	1726	Lowake	19	1
+Concho County	1726	Millersview	137	1
+Concho County	1726	Paint Rock	450	1
+Cooke County	34797	Era	520	1
+Cooke County	34797	Gainesville	25428	2
+Cooke County	34797	Lindsay	1230	1
+Cooke County	34797	Muenster	2900	1
+Cooke County	34797	Myra	214	1
+Cooke County	34797	Rosston	85	1
+Cooke County	34797	Valley View	4420	1
+Coryell County	52436	Copperas Cove	35480	1
+Coryell County	52436	Evant	880	1
+Coryell County	52436	Flat	142	1
+Coryell County	52436	Gatesville	14021	5
+Coryell County	52436	Jonesboro	660	1
+Coryell County	52436	Mound	83	1
+Coryell County	52436	Oglesby	900	1
+Coryell County	52436	Purmela	270	1
+Cottle County	1228	Cee Vee	18	1
+Cottle County	1228	Paducah	1210	1
+Crane County	4780	Crane	4780	1
+Crane County	4780	Girvin	0	1
+Crockett County	3720	El Paso	80	1
+Crockett County	3720	Ozona	3640	1
+Crosby County	4870	Crosbyton	1590	1
+Crosby County	4870	Lorenzo	1290	1
+Crosby County	4870	Ralls	1990	1
+Culberson County	2344	Van Horn	2344	1
+Dallam County	10541	Dalhart	9840	1
+Dallam County	10541	Kerrick	51	1
+Dallam County	10541	Texline	650	1
+Dallas County	2420732	Addison	14070	1
+Dallas County	2420732	Balch Springs	23110	1
+Dallas County	2420732	Carrollton	50192	2
+Dallas County	2420732	Cedar Hill	46260	2
+Dallas County	2420732	Coppell	42580	2
+Dallas County	2420732	Dallas	1160626	105
+Dallas County	2420732	Desoto	49222	2
+Dallas County	2420732	Duncanville	39413	3
+Dallas County	2420732	Garland	230548	9
+Dallas County	2420732	Grand Prairie	168004	4
+Dallas County	2420732	Hutchins	3500	1
+Dallas County	2420732	Irving	232375	10
+Dallas County	2420732	Lancaster	38210	2
+Dallas County	2420732	Mesquite	140683	5
+Dallas County	2420732	Richardson	76760	4
+Dallas County	2420732	Rowlett	55739	3
+Dallas County	2420732	Sachse	23010	1
+Dallas County	2420732	Seagoville	15970	1
+Dallas County	2420732	Sunnyvale	6380	1
+Dallas County	2420732	Wilmer	4080	1
+Dawson County	10330	Lamesa	10030	1
+Dawson County	10330	Welch	300	1
+Deaf Smith County	19537	Dawn	97	1
+Deaf Smith County	19537	Hereford	19440	1
+Delta County	4006	Ben Franklin	157	1
+Delta County	4006	Cooper	2720	1
+Delta County	4006	Enloe	109	1
+Delta County	4006	Klondike	520	1
+Delta County	4006	Lake Creek	200	1
+Delta County	4006	Pecan Gap	300	1
+Denton County	736181	Argyle	22740	1
+Denton County	736181	Aubrey	27410	1
+Denton County	736181	Carrollton	77310	2
+Denton County	736181	Dallas	48340	1
+Denton County	736181	Denton	126507	10
+Denton County	736181	Flower Mound	68070	3
+Denton County	736181	Frisco	56190	1
+Denton County	736181	Justin	14250	1
+Denton County	736181	Krum	8530	1
+Denton County	736181	Lake Dallas	10800	1
+Denton County	736181	Lewisville	114564	4
+Denton County	736181	Little Elm	46950	1
+Denton County	736181	Pilot Point	6840	1
+Denton County	736181	Ponder	4590	1
+Denton County	736181	Roanoke	34490	1
+Denton County	736181	Sanger	13720	1
+Denton County	736181	The Colony	54880	1
+Dickens County	1690	Afton	121	1
+Dickens County	1690	Dickens	250	1
+Dickens County	1690	Mcadoo	79	1
+Dickens County	1690	Spur	1240	1
+Dimmit County	9536	Asherton	1220	1
+Dimmit County	9536	Big Wells	610	1
+Dimmit County	9536	Carrizo Springs	7550	1
+Dimmit County	9536	Catarina	156	1
+Donley County	2797	Clarendon	2410	1
+Donley County	2797	Hedley	320	1
+Donley County	2797	Lelia Lake	67	1
+Duval County	10660	Benavides	1670	1
+Duval County	10660	Concepcion	330	1
+Duval County	10660	Freer	3180	1
+Duval County	10660	Realitos	280	1
+Duval County	10660	San Diego	5200	1
+Eastland County	15203	Carbon	540	1
+Eastland County	15203	Cisco	4470	1
+Eastland County	15203	Desdemona	270	1
+Eastland County	15203	Eastland	4790	1
+Eastland County	15203	Gorman	1330	1
+Eastland County	15203	Olden	293	1
+Eastland County	15203	Ranger	2300	1
+Eastland County	15203	Rising Star	1210	1
+Ector County	153915	Gardendale	2830	1
+Ector County	153915	Goldsmith	360	1
+Ector County	153915	Notrees	0	1
+Ector County	153915	Odessa	150704	9
+Ector County	153915	Penwell	21	1
+Edwards County	1570	Barksdale	230	1
+Edwards County	1570	Rocksprings	1340	1
+El Paso County	778308	Anthony	4780	1
+El Paso County	778308	Canutillo	11640	1
+El Paso County	778308	Clint	6460	1
+El Paso County	778308	El Paso	728169	137
+El Paso County	778308	Fabens	8957	1
+El Paso County	778308	Fort Bliss	1665	2
+El Paso County	778308	San Elizario	13370	1
+El Paso County	778308	Tornillo	3267	1
+Ellis County	162736	Avalon	430	1
+Ellis County	162736	Bardwell	738	1
+Ellis County	162736	Ennis	25463	2
+Ellis County	162736	Ferris	6790	1
+Ellis County	162736	Forreston	390	1
+Ellis County	162736	Italy	2760	1
+Ellis County	162736	Maypearl	1910	1
+Ellis County	162736	Midlothian	33310	1
+Ellis County	162736	Milford	1210	1
+Ellis County	162736	Palmer	4710	1
+Ellis County	162736	Red Oak	37570	1
+Ellis County	162736	Waxahachie	47455	3
+Erath County	29760	Bluff Dale	1220	1
+Erath County	29760	Dublin	7330	1
+Erath County	29760	Lingleville	208	1
+Erath County	29760	Morgan Mill	299	1
+Erath County	29760	Stephenville	20703	2
+Falls County	11268	Chilton	1520	1
+Falls County	11268	Lott	1990	1
+Falls County	11268	Marlin	5380	1
+Falls County	11268	Reagan	205	1
+Falls County	11268	Rosebud	2080	1
+Falls County	11268	Satin	93	1
+Fannin County	26923	Bailey	312	1
+Fannin County	26923	Bonham	9770	1
+Fannin County	26923	Dodd City	950	1
+Fannin County	26923	Ector	810	1
+Fannin County	26923	Gober	108	1
+Fannin County	26923	Honey Grove	2970	1
+Fannin County	26923	Ivanhoe	900	1
+Fannin County	26923	Ladonia	860	1
+Fannin County	26923	Leonard	3970	1
+Fannin County	26923	Randolph	233	1
+Fannin County	26923	Ravenna	1050	1
+Fannin County	26923	Savoy	1430	1
+Fannin County	26923	Telephone	940	1
+Fannin County	26923	Trenton	2150	1
+Fannin County	26923	Windom	470	1
+Fayette County	22163	Carmine	720	1
+Fayette County	22163	Ellinger	360	1
+Fayette County	22163	Fayetteville	1730	1
+Fayette County	22163	Flatonia	2690	1
+Fayette County	22163	La Grange	9400	1
+Fayette County	22163	Muldoon	400	1
+Fayette County	22163	Plum	182	1
+Fayette County	22163	Round Top	1010	1
+Fayette County	22163	Schulenburg	4740	1
+Fayette County	22163	Warda	161	1
+Fayette County	22163	Warrenton	0	1
+Fayette County	22163	West Point	770	1
+Fisher County	2817	Mc Caulley	160	1
+Fisher County	2817	Roby	1010	1
+Fisher County	2817	Rotan	1530	1
+Fisher County	2817	Sylvester	117	1
+Floyd County	5272	Aiken	0	1
+Floyd County	5272	Dougherty	51	1
+Floyd County	5272	Floydada	3050	1
+Floyd County	5272	Lockney	2100	1
+Floyd County	5272	South Plains	71	1
+Foard County	1000	Crowell	1000	1
+Fort Bend County	627326	Beasley	1840	1
+Fort Bend County	627326	Fresno	21870	1
+Fort Bend County	627326	Fulshear	13190	1
+Fort Bend County	627326	Guy	770	1
+Fort Bend County	627326	Houston	29290	1
+Fort Bend County	627326	Katy	98080	1
+Fort Bend County	627326	Kendleton	449	1
+Fort Bend County	627326	Missouri City	100830	2
+Fort Bend County	627326	Needville	10250	1
+Fort Bend County	627326	Orchard	641	1
+Fort Bend County	627326	Richmond	123990	3
+Fort Bend County	627326	Rosenberg	36130	1
+Fort Bend County	627326	Simonton	1080	1
+Fort Bend County	627326	Stafford	32496	2
+Fort Bend County	627326	Sugar Land	156188	5
+Fort Bend County	627326	Thompsons	232	1
+Franklin County	6860	Mount Vernon	5610	1
+Franklin County	6860	Scroggins	1250	1
+Freestone County	15848	Donie	510	1
+Freestone County	15848	Fairfield	7010	1
+Freestone County	15848	Kirvin	138	1
+Freestone County	15848	Streetman	1590	1
+Freestone County	15848	Teague	5040	1
+Freestone County	15848	Wortham	1560	1
+Frio County	13860	Bigfoot	660	1
+Frio County	13860	Dilley	3650	1
+Frio County	13860	Moore	980	1
+Frio County	13860	Pearsall	8570	1
+Gaines County	18080	Loop	390	1
+Gaines County	18080	Seagraves	2820	1
+Gaines County	18080	Seminole	14870	1
+Galveston County	312154	Bacliff	8800	1
+Galveston County	312154	Dickinson	38890	1
+Galveston County	312154	Friendswood	50488	2
+Galveston County	312154	Galveston	43152	6
+Galveston County	312154	Gilchrist	296	1
+Galveston County	312154	High Island	335	1
+Galveston County	312154	Hitchcock	8560	1
+Galveston County	312154	Kemah	6710	1
+Galveston County	312154	La Marque	13850	1
+Galveston County	312154	League City	79851	2
+Galveston County	312154	Port Bolivar	2435	1
+Galveston County	312154	Santa Fe	18700	2
+Galveston County	312154	Texas City	40087	3
+Garza County	3948	Justiceburg	48	1
+Garza County	3948	Post	3900	1
+Gillespie County	23966	Doss	210	1
+Gillespie County	23966	Fredericksburg	20470	1
+Gillespie County	23966	Harper	2400	1
+Gillespie County	23966	Stonewall	720	1
+Gillespie County	23966	Willow City	166	1
+Glasscock County	1080	Garden City	1080	1
+Goliad County	5324	Berclair	233	1
+Goliad County	5324	Fannin	151	1
+Goliad County	5324	Goliad	4800	1
+Goliad County	5324	Weesatche	140	1
+Gonzales County	18872	Belmont	70	1
+Gonzales County	18872	Cost	490	1
+Gonzales County	18872	Gonzales	11110	1
+Gonzales County	18872	Harwood	920	1
+Gonzales County	18872	Leesville	290	1
+Gonzales County	18872	Nixon	3290	1
+Gonzales County	18872	Ottine	32	1
+Gonzales County	18872	Smiley	860	1
+Gonzales County	18872	Waelder	1760	1
+Gonzales County	18872	Wrightsboro	50	1
+Gray County	20762	Alanreed	40	1
+Gray County	20762	Lefors	604	1
+Gray County	20762	Mclean	950	1
+Gray County	20762	Pampa	19168	2
+Grayson County	114177	Bells	2810	1
+Grayson County	114177	Collinsville	2940	1
+Grayson County	114177	Denison	26110	2
+Grayson County	114177	Gordonville	1400	1
+Grayson County	114177	Gunter	2940	1
+Grayson County	114177	Howe	4030	1
+Grayson County	114177	Pottsboro	6680	1
+Grayson County	114177	Sadler	1250	1
+Grayson County	114177	Sherman	43351	3
+Grayson County	114177	Southmayd	367	1
+Grayson County	114177	Tioga	1470	1
+Grayson County	114177	Tom Bean	1249	1
+Grayson County	114177	Van Alstyne	7180	1
+Grayson County	114177	Whitesboro	8170	1
+Grayson County	114177	Whitewright	4230	1
+Gregg County	142213	Easton	271	1
+Gregg County	142213	Gladewater	11730	1
+Gregg County	142213	Judson	484	1
+Gregg County	142213	Kilgore	24494	2
+Gregg County	142213	Longview	98924	9
+Gregg County	142213	White Oak	6310	1
+Grimes County	24160	Anderson	2550	1
+Grimes County	24160	Bedias	2520	1
+Grimes County	24160	Iola	2190	1
+Grimes County	24160	Navasota	12280	1
+Grimes County	24160	Plantersville	3020	1
+Grimes County	24160	Richards	1090	1
+Grimes County	24160	Roans Prairie	126	1
+Grimes County	24160	Shiro	384	1
+Guadalupe County	123009	Cibolo	35880	1
+Guadalupe County	123009	Geronimo	419	1
+Guadalupe County	123009	Kingsbury	1840	1
+Guadalupe County	123009	Marion	5540	1
+Guadalupe County	123009	Mc Queeney	2160	1
+Guadalupe County	123009	Schertz	34510	1
+Guadalupe County	123009	Seguin	42327	2
+Guadalupe County	123009	Staples	333	1
+Hale County	30392	Abernathy	3070	1
+Hale County	30392	Cotton Center	196	1
+Hale County	30392	Edmonson	184	1
+Hale County	30392	Hale Center	2600	1
+Hale County	30392	Petersburg	1260	1
+Hale County	30392	Plainview	23082	2
+Hall County	2641	Estelline	154	1
+Hall County	2641	Lakeview	167	1
+Hall County	2641	Memphis	1980	1
+Hall County	2641	Turkey	340	1
+Hamilton County	7310	Carlton	180	1
+Hamilton County	7310	Hamilton	3970	1
+Hamilton County	7310	Hico	3070	1
+Hamilton County	7310	Pottsville	90	1
+Hansford County	5800	Gruver	1800	1
+Hansford County	5800	Morse	250	1
+Hansford County	5800	Spearman	3750	1
+Hardeman County	3350	Chillicothe	870	1
+Hardeman County	3350	Quanah	2480	1
+Hardin County	50281	Batson	980	1
+Hardin County	50281	Kountze	7690	1
+Hardin County	50281	Lumberton	19330	1
+Hardin County	50281	Saratoga	780	1
+Hardin County	50281	Silsbee	14830	1
+Hardin County	50281	Sour Lake	4670	1
+Hardin County	50281	Thicket	421	1
+Hardin County	50281	Village Mills	1284	1
+Hardin County	50281	Votaw	296	1
+Harris County	4144163	Alief	1018	1
+Harris County	4144163	Barker	224	1
+Harris County	4144163	Baytown	92521	3
+Harris County	4144163	Bellaire	18900	2
+Harris County	4144163	Channelview	32090	1
+Harris County	4144163	Crosby	27120	1
+Harris County	4144163	Cypress	155383	3
+Harris County	4144163	Deer Park	31920	1
+Harris County	4144163	Galena Park	9640	1
+Harris County	4144163	Highlands	10230	1
+Harris County	4144163	Hockley	13910	1
+Harris County	4144163	Houston	2809314	177
+Harris County	4144163	Huffman	12900	1
+Harris County	4144163	Hufsmith	0	1
+Harris County	4144163	Humble	143278	4
+Harris County	4144163	Katy	201700	3
+Harris County	4144163	Kingwood	65873	3
+Harris County	4144163	La Porte	35253	2
+Harris County	4144163	North Houston	0	1
+Harris County	4144163	Pasadena	137980	8
+Harris County	4144163	Seabrook	21420	1
+Harris County	4144163	South Houston	15890	1
+Harris County	4144163	Spring	206249	8
+Harris County	4144163	Tomball	81250	2
+Harris County	4144163	Webster	20100	1
+Harrison County	50272	Elysian Fields	525	1
+Harrison County	50272	Hallsville	9010	1
+Harrison County	50272	Harleton	2080	1
+Harrison County	50272	Jonesville	226	1
+Harrison County	50272	Karnack	1920	1
+Harrison County	50272	Marshall	31124	3
+Harrison County	50272	Scottsville	429	1
+Harrison County	50272	Waskom	4580	1
+Harrison County	50272	Woodlawn	378	1
+Hartley County	1200	Channing	410	1
+Hartley County	1200	Hartley	790	1
+Haskell County	4399	Haskell	2920	1
+Haskell County	4399	O Brien	128	1
+Haskell County	4399	Rochester	370	1
+Haskell County	4399	Rule	764	2
+Haskell County	4399	Weinert	217	1
+Hays County	176112	Austin	16010	1
+Hays County	176112	Buda	31310	1
+Hays County	176112	Driftwood	4020	1
+Hays County	176112	Dripping Springs	15950	1
+Hays County	176112	Kyle	48090	1
+Hays County	176112	San Marcos	48462	2
+Hays County	176112	Wimberley	12270	1
+Hemphill County	4360	Canadian	4360	1
+Henderson County	70557	Athens	20290	2
+Henderson County	70557	Brownsboro	3640	1
+Henderson County	70557	Chandler	8290	1
+Henderson County	70557	Eustace	3900	1
+Henderson County	70557	Kemp	11570	1
+Henderson County	70557	Larue	2230	1
+Henderson County	70557	Mabank	11130	1
+Henderson County	70557	Malakoff	4630	1
+Henderson County	70557	Murchison	2650	1
+Henderson County	70557	Poynor	357	1
+Henderson County	70557	Trinidad	1870	1
+Hidalgo County	690844	Alamo	28010	1
+Hidalgo County	690844	Donna	37100	1
+Hidalgo County	690844	Edcouch	9620	1
+Hidalgo County	690844	Edinburg	122391	4
+Hidalgo County	690844	Elsa	8228	1
+Hidalgo County	690844	Hargill	1006	1
+Hidalgo County	690844	Hidalgo	15400	1
+Hidalgo County	690844	La Blanca	2904	1
+Hidalgo County	690844	La Joya	4630	1
+Hidalgo County	690844	La Villa	2128	1
+Hidalgo County	690844	Linn	550	1
+Hidalgo County	690844	Los Ebanos	1286	1
+Hidalgo County	690844	Mcallen	122818	5
+Hidalgo County	690844	Mercedes	28710	1
+Hidalgo County	690844	Mission	146840	3
+Hidalgo County	690844	Penitas	10100	1
+Hidalgo County	690844	Pharr	65380	1
+Hidalgo County	690844	Progreso	4374	1
+Hidalgo County	690844	San Juan	37390	1
+Hidalgo County	690844	Sullivan City	5090	1
+Hidalgo County	690844	Weslaco	36889	2
+Hill County	29981	Abbott	1040	1
+Hill County	29981	Aquilla	910	1
+Hill County	29981	Blum	1420	1
+Hill County	29981	Brandon	107	1
+Hill County	29981	Bynum	430	1
+Hill County	29981	Covington	1380	1
+Hill County	29981	Hillsboro	10010	1
+Hill County	29981	Hubbard	2060	1
+Hill County	29981	Irene	84	1
+Hill County	29981	Itasca	2490	1
+Hill County	29981	Malone	390	1
+Hill County	29981	Mertens	230	1
+Hill County	29981	Mount Calm	980	1
+Hill County	29981	Penelope	320	1
+Hill County	29981	Whitney	8130	1
+Hockley County	19420	Anton	1270	1
+Hockley County	19420	Levelland	14677	2
+Hockley County	19420	Pep	29	1
+Hockley County	19420	Ropesville	1060	1
+Hockley County	19420	Smyer	670	1
+Hockley County	19420	Sundown	1530	1
+Hockley County	19420	Whitharral	184	1
+Hood County	50313	Granbury	45200	2
+Hood County	50313	Lipan	2630	1
+Hood County	50313	Paluxy	63	1
+Hood County	50313	Tolar	2420	1
+Hopkins County	31345	Brashear	990	1
+Hopkins County	31345	Como	1840	1
+Hopkins County	31345	Cumby	2260	1
+Hopkins County	31345	Dike	990	1
+Hopkins County	31345	Pickton	1230	1
+Hopkins County	31345	Saltillo	820	1
+Hopkins County	31345	Sulphur Bluff	320	1
+Hopkins County	31345	Sulphur Springs	22895	2
+Houston County	17273	Crockett	9050	1
+Houston County	17273	Grapeland	4290	1
+Houston County	17273	Kennard	1220	1
+Houston County	17273	Latexo	417	1
+Houston County	17273	Lovelady	2080	1
+Houston County	17273	Ratcliff	216	1
+Howard County	28732	Big Spring	26867	2
+Howard County	28732	Coahoma	1360	1
+Howard County	28732	Forsan	256	1
+Howard County	28732	Knott	249	1
+Hudspeth County	2790	Dell City	604	1
+Hudspeth County	2790	Fort Hancock	1560	1
+Hudspeth County	2790	Salt Flat	105	1
+Hudspeth County	2790	Sierra Blanca	521	1
+Hunt County	69268	Caddo Mills	6030	1
+Hunt County	69268	Campbell	2470	1
+Hunt County	69268	Celeste	2390	1
+Hunt County	69268	Commerce	7569	2
+Hunt County	69268	Greenville	32456	4
+Hunt County	69268	Lone Oak	2930	1
+Hunt County	69268	Merit	353	1
+Hunt County	69268	Quinlan	12340	1
+Hunt County	69268	Wolfe City	2730	1
+Hutchinson County	20415	Borger	13754	2
+Hutchinson County	20415	Fritch	4250	1
+Hutchinson County	20415	Sanford	361	1
+Hutchinson County	20415	Stinnett	2050	1
+Irion County	1383	Barnhart	133	1
+Irion County	1383	Mertzon	1250	1
+Jack County	6584	Bryson	670	1
+Jack County	6584	Jacksboro	4710	1
+Jack County	6584	Jermyn	144	1
+Jack County	6584	Perrin	1060	1
+Jackson County	13662	Edna	7900	1
+Jackson County	13662	Francitas	112	1
+Jackson County	13662	Ganado	3730	1
+Jackson County	13662	La Salle	126	1
+Jackson County	13662	La Ward	327	1
+Jackson County	13662	Lolita	930	1
+Jackson County	13662	Vanderbilt	537	1
+Jasper County	30630	Brookeland	1910	1
+Jasper County	30630	Buna	7720	1
+Jasper County	30630	Evadale	1400	1
+Jasper County	30630	Jasper	13320	1
+Jasper County	30630	Kirbyville	6280	1
+Jeff Davis County	1816	Fort Davis	1680	1
+Jeff Davis County	1816	Valentine	136	1
+Jefferson County	220432	Beaumont	116898	14
+Jefferson County	220432	China	1513	1
+Jefferson County	220432	Groves	15400	1
+Jefferson County	220432	Hamshire	1540	1
+Jefferson County	220432	Nederland	21130	1
+Jefferson County	220432	Nome	726	1
+Jefferson County	220432	Port Arthur	50505	4
+Jefferson County	220432	Port Neches	12400	1
+Jefferson County	220432	Sabine Pass	320	1
+Jim Hogg County	4510	Guerra	0	1
+Jim Hogg County	4510	Hebbronville	4510	1
+Jim Wells County	38874	Alice	26926	2
+Jim Wells County	38874	Ben Bolt	538	1
+Jim Wells County	38874	Orange Grove	5350	1
+Jim Wells County	38874	Premont	2840	1
+Jim Wells County	38874	Sandia	3220	1
+Johnson County	162581	Alvarado	19540	1
+Johnson County	162581	Burleson	63601	2
+Johnson County	162581	Cleburne	38890	2
+Johnson County	162581	Godley	3770	1
+Johnson County	162581	Grandview	5640	1
+Johnson County	162581	Joshua	16780	1
+Johnson County	162581	Keene	4200	1
+Johnson County	162581	Lillian	530	1
+Johnson County	162581	Rio Vista	2100	1
+Johnson County	162581	Venus	7530	1
+Jones County	11257	Anson	2980	1
+Jones County	11257	Avoca	177	1
+Jones County	11257	Hamlin	2010	1
+Jones County	11257	Hawley	2730	1
+Jones County	11257	Lueders	520	1
+Jones County	11257	Stamford	2840	1
+Karnes County	12792	Ecleto	0	1
+Karnes County	12792	Falls City	2180	1
+Karnes County	12792	Gillett	320	1
+Karnes County	12792	Hobson	510	1
+Karnes County	12792	Karnes City	3930	1
+Karnes County	12792	Kenedy	4510	1
+Karnes County	12792	Panna Maria	22	1
+Karnes County	12792	Runge	1320	1
+Kaufman County	103175	Crandall	5260	1
+Kaufman County	103175	Elmo	246	1
+Kaufman County	103175	Forney	40870	1
+Kaufman County	103175	Kaufman	18090	1
+Kaufman County	103175	Mabank	6260	1
+Kaufman County	103175	Rosser	369	1
+Kaufman County	103175	Scurry	4250	1
+Kaufman County	103175	Terrell	27830	2
+Kendall County	38382	Bergheim	560	1
+Kendall County	38382	Boerne	31860	1
+Kendall County	38382	Comfort	5370	1
+Kendall County	38382	Kendalia	400	1
+Kendall County	38382	Waring	192	1
+Kenedy County	339	Armstrong	60	1
+Kenedy County	339	Sarita	279	1
+Kent County	581	Girard	111	1
+Kent County	581	Jayton	470	1
+Kerr County	44586	Center Point	2800	1
+Kerr County	44586	Hunt	1390	1
+Kerr County	44586	Ingram	4490	1
+Kerr County	44586	Kerrville	34916	2
+Kerr County	44586	Mountain Home	990	1
+Kimble County	3492	Junction	3160	1
+Kimble County	3492	London	250	1
+Kimble County	3492	Roosevelt	64	1
+Kimble County	3492	Telegraph	18	1
+King County	236	Guthrie	236	1
+Kinney County	2670	Brackettville	2670	1
+Kleberg County	26250	Kingsville	24760	2
+Kleberg County	26250	Riviera	1490	1
+Knox County	3180	Benjamin	250	1
+Knox County	3180	Goree	260	1
+Knox County	3180	Knox City	1150	1
+Knox County	3180	Munday	1520	1
+La Salle County	5313	Artesia Wells	15	1
+La Salle County	5313	Cotulla	4300	1
+La Salle County	5313	Encinal	882	1
+La Salle County	5313	Fowlerton	116	1
+Lamar County	42515	Arthur City	830	1
+Lamar County	42515	Blossom	2690	1
+Lamar County	42515	Brookston	920	1
+Lamar County	42515	Chicota	137	1
+Lamar County	42515	Cunningham	92	1
+Lamar County	42515	Deport	840	1
+Lamar County	42515	Paris	29768	3
+Lamar County	42515	Pattonville	830	1
+Lamar County	42515	Petty	208	1
+Lamar County	42515	Powderly	3180	1
+Lamar County	42515	Roxton	720	1
+Lamar County	42515	Sumner	2300	1
+Lamb County	11883	Amherst	830	1
+Lamb County	11883	Earth	1210	1
+Lamb County	11883	Fieldton	39	1
+Lamb County	11883	Littlefield	5970	1
+Lamb County	11883	Olton	2250	1
+Lamb County	11883	Spade	134	1
+Lamb County	11883	Springlake	260	1
+Lamb County	11883	Sudan	1190	1
+Lampasas County	19690	Kempner	7710	1
+Lampasas County	19690	Lampasas	10690	1
+Lampasas County	19690	Lometa	1290	1
+Lavaca County	21872	Hallettsville	7170	1
+Lavaca County	21872	Moulton	1650	1
+Lavaca County	21872	Shiner	3970	1
+Lavaca County	21872	Sublime	49	1
+Lavaca County	21872	Sweet Home	213	1
+Lavaca County	21872	Yoakum	8820	1
+Lee County	15560	Dime Box	920	1
+Lee County	15560	Giddings	8890	1
+Lee County	15560	Ledbetter	940	1
+Lee County	15560	Lexington	4050	1
+Lee County	15560	Lincoln	760	1
+Leon County	17273	Buffalo	4760	1
+Leon County	17273	Centerville	2990	1
+Leon County	17273	Concord	24	1
+Leon County	17273	Flynn	329	1
+Leon County	17273	Jewett	2310	1
+Leon County	17273	Leona	370	1
+Leon County	17273	Marquez	1440	1
+Leon County	17273	Normangee	3090	1
+Leon County	17273	Oakwood	1960	1
+Liberty County	64824	Cleveland	17260	1
+Liberty County	64824	Daisetta	972	1
+Liberty County	64824	Dayton	27420	1
+Liberty County	64824	Devers	840	1
+Liberty County	64824	Hardin	1780	1
+Liberty County	64824	Hull	1410	1
+Liberty County	64824	Liberty	13040	1
+Liberty County	64824	Raywood	677	1
+Liberty County	64824	Romayor	372	1
+Liberty County	64824	Rye	1053	1
+Limestone County	19397	Coolidge	1180	1
+Limestone County	19397	Groesbeck	5450	1
+Limestone County	19397	Kosse	950	1
+Limestone County	19397	Mexia	10120	1
+Limestone County	19397	Prairie Hill	184	1
+Limestone County	19397	Tehuacana	293	1
+Limestone County	19397	Thornton	1220	1
+Lipscomb County	3389	Booker	1790	1
+Lipscomb County	3389	Darrouzett	380	1
+Lipscomb County	3389	Follett	690	1
+Lipscomb County	3389	Higgins	480	1
+Lipscomb County	3389	Lipscomb	49	1
+Live Oak County	7997	Dinero	106	1
+Live Oak County	7997	George West	4510	1
+Live Oak County	7997	Oakville	49	1
+Live Oak County	7997	Three Rivers	3200	1
+Live Oak County	7997	Whitsett	132	1
+Llano County	19114	Bluffton	166	1
+Llano County	19114	Buchanan Dam	1530	1
+Llano County	19114	Castell	76	1
+Llano County	19114	Horseshoe Bay	5130	1
+Llano County	19114	Kingsland	5970	1
+Llano County	19114	Llano	5430	1
+Llano County	19114	Tow	660	1
+Llano County	19114	Valley Spring	152	1
+Loving County	49	Mentone	49	1
+Lubbock County	242815	Idalou	3100	1
+Lubbock County	242815	Lubbock	219085	27
+Lubbock County	242815	New Deal	610	1
+Lubbock County	242815	Ransom Canyon	1000	1
+Lubbock County	242815	Shallowater	5420	1
+Lubbock County	242815	Slaton	6750	1
+Lubbock County	242815	Wolfforth	6850	1
+Lynn County	5221	New Home	371	1
+Lynn County	5221	Odonnell	1110	1
+Lynn County	5221	Tahoka	2680	1
+Lynn County	5221	Wilson	1060	1
+Madison County	10270	Madisonville	7180	1
+Madison County	10270	Midway	1440	1
+Madison County	10270	North Zulch	1650	1
+Marion County	8648	Avinger	1980	1
+Marion County	8648	Jefferson	6520	1
+Marion County	8648	Lodi	148	1
+Martin County	5566	Ackerly	640	1
+Martin County	5566	Lenorah	270	1
+Martin County	5566	Stanton	4460	1
+Martin County	5566	Tarzan	196	1
+Mason County	3499	Art	99	1
+Mason County	3499	Fredonia	146	1
+Mason County	3499	Mason	3120	1
+Mason County	3499	Pontotoc	134	1
+Matagorda County	34547	Bay City	21071	2
+Matagorda County	34547	Blessing	1375	1
+Matagorda County	34547	Cedar Lane	372	1
+Matagorda County	34547	Collegeport	58	1
+Matagorda County	34547	Elmaton	141	1
+Matagorda County	34547	Markham	1236	1
+Matagorda County	34547	Matagorda	457	1
+Matagorda County	34547	Midfield	353	1
+Matagorda County	34547	Palacios	6650	1
+Matagorda County	34547	Pledger	200	1
+Matagorda County	34547	Van Vleck	2210	1
+Matagorda County	34547	Wadsworth	424	1
+Maverick County	61701	Eagle Pass	60646	2
+Maverick County	61701	El Indio	245	1
+Maverick County	61701	Quemado	810	1
+McCulloch County	7412	Brady	6300	1
+McCulloch County	7412	Doole	45	1
+McCulloch County	7412	Lohn	200	1
+McCulloch County	7412	Melvin	230	1
+McCulloch County	7412	Rochelle	540	1
+McCulloch County	7412	Voca	97	1
+McLennan County	213716	Axtell	2130	1
+McLennan County	213716	Bruceville	1550	1
+McLennan County	213716	China Spring	4970	1
+McLennan County	213716	Crawford	2760	1
+McLennan County	213716	Eddy	2600	1
+McLennan County	213716	Elm Mott	2630	1
+McLennan County	213716	Hewitt	13750	1
+McLennan County	213716	Leroy	217	1
+McLennan County	213716	Lorena	7820	1
+McLennan County	213716	Mart	2660	1
+McLennan County	213716	Mc Gregor	9490	1
+McLennan County	213716	Moody	4600	1
+McLennan County	213716	Riesel	2540	1
+McLennan County	213716	Ross	259	1
+McLennan County	213716	Waco	126590	16
+McLennan County	213716	West	5730	1
+McLennan County	213716	Woodway	23420	1
+McMullen County	860	Calliham	120	1
+McMullen County	860	Tilden	740	1
+Medina County	37200	Castroville	7340	1
+Medina County	37200	D Hanis	1100	1
+Medina County	37200	Devine	9000	1
+Medina County	37200	Hondo	10610	1
+Medina County	37200	La Coste	1570	1
+Medina County	37200	Mico	1790	1
+Medina County	37200	Natalia	4630	1
+Medina County	37200	Rio Medina	620	1
+Medina County	37200	Yancey	540	1
+Menard County	1728	Fort Mc Kavett	107	1
+Menard County	1728	Hext	61	1
+Menard County	1728	Menard	1560	1
+Midland County	147952	Midland	147952	11
+Milam County	20836	Buckholts	1100	1
+Milam County	20836	Cameron	6940	1
+Milam County	20836	Davilla	176	1
+Milam County	20836	Gause	780	1
+Milam County	20836	Milano	1320	1
+Milam County	20836	Rockdale	7720	1
+Milam County	20836	Thorndale	2800	1
+Mills County	3921	Goldthwaite	2990	1
+Mills County	3921	Mullin	590	1
+Mills County	3921	Priddy	257	1
+Mills County	3921	Star	84	1
+Mitchell County	6300	Colorado City	5110	1
+Mitchell County	6300	Loraine	800	1
+Mitchell County	6300	Westbrook	390	1
+Montague County	17948	Bowie	8490	1
+Montague County	17948	Forestburg	900	1
+Montague County	17948	Montague	650	1
+Montague County	17948	Nocona	4500	1
+Montague County	17948	Ringgold	258	1
+Montague County	17948	Saint Jo	1440	1
+Montague County	17948	Sunset	1710	1
+Montgomery County	482073	Conroe	135458	8
+Montgomery County	482073	Dobbin	473	1
+Montgomery County	482073	Magnolia	59562	3
+Montgomery County	482073	Montgomery	47240	2
+Montgomery County	482073	New Caney	21970	1
+Montgomery County	482073	Pinehurst	5050	1
+Montgomery County	482073	Porter	32230	1
+Montgomery County	482073	Splendora	10890	1
+Montgomery County	482073	Spring	139530	4
+Montgomery County	482073	Willis	29670	2
+Moore County	23234	Amarillo	1174	1
+Moore County	23234	Cactus	3790	1
+Moore County	23234	Dumas	16280	1
+Moore County	23234	Sunray	1990	1
+Morris County	11281	Cason	371	1
+Morris County	11281	Daingerfield	4580	1
+Morris County	11281	Lone Star	1610	1
+Morris County	11281	Naples	2340	1
+Morris County	11281	Omaha	2380	1
+Motley County	901	Flomot	71	1
+Motley County	901	Matador	630	1
+Motley County	901	Roaring Springs	200	1
+Nacogdoches County	52707	Chireno	970	1
+Nacogdoches County	52707	Cushing	2080	1
+Nacogdoches County	52707	Douglass	1260	1
+Nacogdoches County	52707	Etoile	1040	1
+Nacogdoches County	52707	Garrison	2880	1
+Nacogdoches County	52707	Martinsville	259	1
+Nacogdoches County	52707	Nacogdoches	43735	5
+Nacogdoches County	52707	Sacul	111	1
+Nacogdoches County	52707	Woden	372	1
+Navarro County	43882	Barry	1210	1
+Navarro County	43882	Blooming Grove	1480	1
+Navarro County	43882	Chatfield	280	1
+Navarro County	43882	Corsicana	30802	3
+Navarro County	43882	Dawson	1190	1
+Navarro County	43882	Frost	1500	1
+Navarro County	43882	Kerens	2690	1
+Navarro County	43882	Powell	610	1
+Navarro County	43882	Purdon	1200	1
+Navarro County	43882	Rice	2510	1
+Navarro County	43882	Richland	410	1
+Newton County	9000	Bon Wier	1040	1
+Newton County	9000	Burkeville	1110	1
+Newton County	9000	Call	1360	1
+Newton County	9000	Deweyville	1360	1
+Newton County	9000	Newton	3620	1
+Newton County	9000	Wiergate	510	1
+Nolan County	13605	Blackwell	510	1
+Nolan County	13605	Maryneal	142	1
+Nolan County	13605	Nolan	83	1
+Nolan County	13605	Roscoe	1700	1
+Nolan County	13605	Sweetwater	11170	1
+Nueces County	310407	Agua Dulce	930	1
+Nueces County	310407	Aransas Pass	2158	1
+Nueces County	310407	Banquete	1211	1
+Nueces County	310407	Bishop	3940	1
+Nueces County	310407	Chapman Ranch	119	1
+Nueces County	310407	Corpus Christi	277906	34
+Nueces County	310407	Driscoll	883	1
+Nueces County	310407	Port Aransas	3530	1
+Nueces County	310407	Robstown	19730	1
+Ochiltree County	11255	Farnsworth	106	1
+Ochiltree County	11255	Perryton	11080	1
+Ochiltree County	11255	Waka	69	1
+Oldham County	2170	Adrian	240	1
+Oldham County	2170	Boys Ranch	430	1
+Oldham County	2170	Vega	1090	1
+Oldham County	2170	Wildorado	410	1
+Orange County	79292	Bridge City	8980	1
+Orange County	79292	Mauriceville	1664	1
+Orange County	79292	Orange	43717	3
+Orange County	79292	Orangefield	716	1
+Orange County	79292	Vidor	24215	2
+Palo Pinto County	22920	Gordon	940	1
+Palo Pinto County	22920	Graford	1850	1
+Palo Pinto County	22920	Mineral Wells	16750	1
+Palo Pinto County	22920	Mingus	380	1
+Palo Pinto County	22920	Palo Pinto	790	1
+Palo Pinto County	22920	Santo	1320	1
+Palo Pinto County	22920	Strawn	890	1
+Panola County	20766	Beckville	2500	1
+Panola County	20766	Carthage	13170	1
+Panola County	20766	Clayton	123	1
+Panola County	20766	De Berry	2400	1
+Panola County	20766	Gary	1740	1
+Panola County	20766	Long Branch	520	1
+Panola County	20766	Panola	313	1
+Parker County	106813	Aledo	15870	1
+Parker County	106813	Cresson	1530	1
+Parker County	106813	Dennis	285	1
+Parker County	106813	Millsap	2670	1
+Parker County	106813	Mineral Wells	1263	1
+Parker County	106813	Peaster	325	1
+Parker County	106813	Poolville	2150	1
+Parker County	106813	Springtown	16970	1
+Parker County	106813	Weatherford	65570	4
+Parker County	106813	Whitt	180	1
+Parmer County	9970	Bovina	2160	1
+Parmer County	9970	Farwell	1990	1
+Parmer County	9970	Friona	5600	1
+Parmer County	9970	Lazbuddie	220	1
+Pecos County	13179	Coyanosa	218	1
+Pecos County	13179	Fort Stockton	10960	1
+Pecos County	13179	Imperial	251	1
+Pecos County	13179	Iraan	1404	1
+Pecos County	13179	Sheffield	346	1
+Polk County	47670	Ace	374	1
+Polk County	47670	Camden	239	1
+Polk County	47670	Corrigan	3450	1
+Polk County	47670	Dallardsville	119	1
+Polk County	47670	Goodrich	1750	1
+Polk County	47670	Leggett	542	1
+Polk County	47670	Livingston	36186	2
+Polk County	47670	Moscow	800	1
+Polk County	47670	Onalaska	4210	1
+Potter County	109135	Amarillo	107924	21
+Potter County	109135	Bushland	1190	1
+Potter County	109135	Masterson	21	1
+Presidio County	9204	Marfa	2190	1
+Presidio County	9204	Presidio	6937	1
+Presidio County	9204	Redford	77	1
+Rains County	8130	Emory	5300	1
+Rains County	8130	Point	2830	1
+Randall County	113632	Amarillo	96910	5
+Randall County	113632	Canyon	16575	2
+Randall County	113632	Umbarger	147	1
+Reagan County	3790	Big Lake	3790	1
+Real County	2800	Camp Wood	1120	1
+Real County	2800	Leakey	1490	1
+Real County	2800	Rio Frio	190	1
+Red River County	10430	Annona	660	1
+Red River County	10430	Avery	1410	1
+Red River County	10430	Bagwell	550	1
+Red River County	10430	Bogata	1990	1
+Red River County	10430	Clarksville	4060	1
+Red River County	10430	Detroit	1760	1
+Reeves County	10573	Balmorhea	580	1
+Reeves County	10573	Orla	38	1
+Reeves County	10573	Pecos	9700	1
+Reeves County	10573	Saragosa	168	1
+Reeves County	10573	Toyah	58	1
+Reeves County	10573	Toyahvale	29	1
+Refugio County	6812	Austwell	212	1
+Refugio County	6812	Bayside	370	1
+Refugio County	6812	Refugio	3390	1
+Refugio County	6812	Tivoli	610	1
+Refugio County	6812	Woodsboro	2230	1
+Roberts County	740	Miami	740	1
+Robertson County	14310	Bremond	1720	1
+Robertson County	14310	Calvert	1190	1
+Robertson County	14310	Franklin	4130	1
+Robertson County	14310	Hearne	6550	1
+Robertson County	14310	Mumford	139	1
+Robertson County	14310	New Baden	274	1
+Robertson County	14310	Wheelock	307	1
+Rockwall County	87976	Fate	706	1
+Rockwall County	87976	Rockwall	62230	2
+Rockwall County	87976	Royse City	25040	1
+Runnels County	9762	Ballinger	4310	1
+Runnels County	9762	Miles	2000	1
+Runnels County	9762	Norton	122	1
+Runnels County	9762	Rowena	540	1
+Runnels County	9762	Winters	2790	1
+Rusk County	38175	Henderson	23430	3
+Rusk County	38175	Joinerville	271	1
+Rusk County	38175	Laird Hill	591	1
+Rusk County	38175	Laneville	940	1
+Rusk County	38175	Minden	115	1
+Rusk County	38175	Mount Enterprise	2260	1
+Rusk County	38175	New London	682	1
+Rusk County	38175	Overton	5210	1
+Rusk County	38175	Price	261	1
+Rusk County	38175	Selman City	225	1
+Rusk County	38175	Tatum	4190	1
+Sabine County	8280	Bronson	1370	1
+Sabine County	8280	Hemphill	4630	1
+Sabine County	8280	Milam	690	1
+Sabine County	8280	Pineland	1590	1
+San Augustine County	6280	Broaddus	1140	1
+San Augustine County	6280	San Augustine	5140	1
+San Jacinto County	28670	Cleveland	14430	1
+San Jacinto County	28670	Coldspring	5340	1
+San Jacinto County	28670	Oakhurst	640	1
+San Jacinto County	28670	Pointblank	1840	1
+San Jacinto County	28670	Shepherd	6420	1
+San Patricio County	66737	Aransas Pass	9640	1
+San Patricio County	66737	Edroy	512	1
+San Patricio County	66737	Gregory	2165	1
+San Patricio County	66737	Ingleside	9470	1
+San Patricio County	66737	Mathis	8370	1
+San Patricio County	66737	Odem	4660	1
+San Patricio County	66737	Portland	17560	1
+San Patricio County	66737	Sinton	8850	1
+San Patricio County	66737	Taft	5510	1
+San Saba County	4750	Bend	60	1
+San Saba County	4750	Cherokee	500	1
+San Saba County	4750	Richland Springs	610	1
+San Saba County	4750	San Saba	3580	1
+Schleicher County	2620	Eldorado	2620	1
+Scurry County	15622	Dunn	15	1
+Scurry County	15622	Fluvanna	182	1
+Scurry County	15622	Hermleigh	910	1
+Scurry County	15622	Ira	470	1
+Scurry County	15622	Snyder	14045	2
+Shackelford County	2560	Albany	2180	1
+Shackelford County	2560	Moran	380	1
+Shelby County	23690	Center	12910	1
+Shelby County	23690	Joaquin	2950	1
+Shelby County	23690	Shelbyville	2050	1
+Shelby County	23690	Tenaha	2820	1
+Shelby County	23690	Timpson	2960	1
+Sherman County	2350	Stratford	2350	1
+Sherman County	2350	Texhoma	0	1
+Smith County	201964	Arp	3440	1
+Smith County	201964	Bullard	10570	1
+Smith County	201964	Flint	12440	1
+Smith County	201964	Lindale	18080	1
+Smith County	201964	Troup	6740	1
+Smith County	201964	Tyler	135394	15
+Smith County	201964	Whitehouse	12370	1
+Smith County	201964	Winona	2930	1
+Somervell County	7320	Glen Rose	6390	1
+Somervell County	7320	Nemo	410	1
+Somervell County	7320	Rainbow	520	1
+Starr County	59845	Delmita	280	1
+Starr County	59845	Falcon Heights	674	1
+Starr County	59845	Garciasville	2899	1
+Starr County	59845	Grulla	2881	1
+Starr County	59845	Rio Grande City	34350	1
+Starr County	59845	Roma	17920	1
+Starr County	59845	Salineno	241	1
+Starr County	59845	San Isidro	350	1
+Starr County	59845	Santa Elena	250	1
+Stephens County	7156	Breckenridge	6980	1
+Stephens County	7156	Caddo	176	1
+Sterling County	1230	Sterling City	1230	1
+Stonewall County	1169	Aspermont	1060	1
+Stonewall County	1169	Old Glory	109	1
+Sutton County	3880	Sonora	3880	1
+Swisher County	6440	Happy	970	1
+Swisher County	6440	Kress	1040	1
+Swisher County	6440	Tulia	4430	1
+Tarrant County	1788370	Arlington	366508	19
+Tarrant County	1788370	Azle	25868	2
+Tarrant County	1788370	Bedford	46827	3
+Tarrant County	1788370	Colleyville	24990	1
+Tarrant County	1788370	Crowley	23580	1
+Tarrant County	1788370	Dallas	550	1
+Tarrant County	1788370	Euless	62230	2
+Tarrant County	1788370	Fort Worth	816254	56
+Tarrant County	1788370	Grand Prairie	11250	1
+Tarrant County	1788370	Grapevine	48463	2
+Tarrant County	1788370	Haltom City	29980	1
+Tarrant County	1788370	Haslet	18960	1
+Tarrant County	1788370	Hurst	40540	2
+Tarrant County	1788370	Keller	107820	2
+Tarrant County	1788370	Kennedale	7320	1
+Tarrant County	1788370	Mansfield	65860	1
+Tarrant County	1788370	Naval Air Station/ Jrb	430	1
+Tarrant County	1788370	North Richland Hills	60950	2
+Tarrant County	1788370	Southlake	29990	1
+Taylor County	123517	Abilene	107657	10
+Taylor County	123517	Buffalo Gap	1110	1
+Taylor County	123517	Dyess Afb	2750	1
+Taylor County	123517	Lawn	470	1
+Taylor County	123517	Merkel	4550	1
+Taylor County	123517	Ovalo	710	1
+Taylor County	123517	Trent	590	1
+Taylor County	123517	Tuscola	4330	1
+Taylor County	123517	Tye	1120	1
+Taylor County	123517	Wingate	230	1
+Terrell County	779	Dryden	50	1
+Terrell County	779	Sanderson	729	1
+Terry County	10462	Brownfield	9330	1
+Terry County	10462	Meadow	880	1
+Terry County	10462	Wellman	252	1
+Throckmorton County	1250	Throckmorton	870	1
+Throckmorton County	1250	Woodson	380	1
+Titus County	31058	Cookville	1320	1
+Titus County	31058	Mount Pleasant	27878	2
+Titus County	31058	Talco	1180	1
+Titus County	31058	Winfield	680	1
+Tom Green County	102136	Carlsbad	890	1
+Tom Green County	102136	Christoval	1630	1
+Tom Green County	102136	Eola	250	1
+Tom Green County	102136	Goodfellow Afb	795	1
+Tom Green County	102136	Knickerbocker	163	1
+Tom Green County	102136	Mereta	220	1
+Tom Green County	102136	San Angelo	97160	7
+Tom Green County	102136	Vancourt	132	1
+Tom Green County	102136	Veribest	163	1
+Tom Green County	102136	Wall	400	1
+Tom Green County	102136	Water Valley	333	1
+Travis County	1000778	Austin	856228	75
+Travis County	1000778	Del Valle	22050	1
+Travis County	1000778	Leander	10160	1
+Travis County	1000778	Manchaca	4260	1
+Travis County	1000778	Manor	19180	1
+Travis County	1000778	Pflugerville	79660	2
+Travis County	1000778	Spicewood	9240	1
+Trinity County	11282	Apple Springs	900	1
+Trinity County	11282	Centralia	0	1
+Trinity County	11282	Groveton	2200	1
+Trinity County	11282	Pennington	230	1
+Trinity County	11282	Trinity	7810	1
+Trinity County	11282	Woodlake	142	1
+Tyler County	15651	Chester	710	1
+Tyler County	15651	Colmesneil	2120	1
+Tyler County	15651	Doucette	371	1
+Tyler County	15651	Fred	1090	1
+Tyler County	15651	Hillister	770	1
+Tyler County	15651	Spurger	1400	1
+Tyler County	15651	Warren	2520	1
+Tyler County	15651	Woodville	6670	2
+Upshur County	30810	Big Sandy	4550	2
+Upshur County	30810	Diana	4330	1
+Upshur County	30810	Gilmer	18720	2
+Upshur County	30810	Ore City	3210	1
+Upton County	3212	Mc Camey	2160	1
+Upton County	3212	Midkiff	249	1
+Upton County	3212	Rankin	803	1
+Uvalde County	25239	Concan	430	1
+Uvalde County	25239	Knippa	790	1
+Uvalde County	25239	Sabinal	2000	1
+Uvalde County	25239	Utopia	1000	1
+Uvalde County	25239	Uvalde	21019	2
+Val Verde County	48298	Comstock	318	1
+Val Verde County	48298	Del Rio	47528	4
+Val Verde County	48298	Langtry	55	1
+Val Verde County	48298	Laughlin A F B	397	1
+Van Zandt County	44100	Ben Wheeler	5000	1
+Van Zandt County	44100	Canton	11640	1
+Van Zandt County	44100	Edgewood	3400	1
+Van Zandt County	44100	Fruitvale	1370	1
+Van Zandt County	44100	Grand Saline	5930	1
+Van Zandt County	44100	Van	4370	1
+Van Zandt County	44100	Wills Point	12390	1
+Victoria County	85552	Bloomington	2348	1
+Victoria County	85552	Inez	2870	1
+Victoria County	85552	Mcfaddin	20	1
+Victoria County	85552	Meyersville	460	1
+Victoria County	85552	Nursery	395	1
+Victoria County	85552	Placedo	671	1
+Victoria County	85552	Telferner	738	1
+Victoria County	85552	Victoria	78050	5
+Walker County	46069	Dodge	561	1
+Walker County	46069	Huntsville	40119	8
+Walker County	46069	New Waverly	4500	1
+Walker County	46069	Riverside	889	1
+Waller County	37211	Brookshire	10880	1
+Waller County	37211	Hempstead	11320	1
+Waller County	37211	Katy	1591	2
+Waller County	37211	Pattison	893	1
+Waller County	37211	Prairie View	1267	1
+Waller County	37211	Waller	11260	1
+Ward County	10841	Barstow	299	1
+Ward County	10841	Grandfalls	448	1
+Ward County	10841	Monahans	9520	1
+Ward County	10841	Pyote	172	1
+Ward County	10841	Wickett	402	1
+Washington County	31081	Brenham	25291	2
+Washington County	31081	Burton	2250	1
+Washington County	31081	Chappell Hill	1880	1
+Washington County	31081	Washington	1660	1
+Webb County	255966	Bruni	360	1
+Webb County	255966	Laredo	254967	8
+Webb County	255966	Mirando City	350	1
+Webb County	255966	Oilton	289	1
+Wharton County	40052	Boling	2230	1
+Wharton County	40052	Danevang	455	1
+Wharton County	40052	East Bernard	4860	1
+Wharton County	40052	Egypt	187	1
+Wharton County	40052	El Campo	16610	1
+Wharton County	40052	Glen Flora	277	1
+Wharton County	40052	Hungerford	757	1
+Wharton County	40052	Lane City	400	1
+Wharton County	40052	Lissie	228	1
+Wharton County	40052	Louise	1790	1
+Wharton County	40052	Pierce	108	1
+Wharton County	40052	Wharton	12150	1
+Wheeler County	5647	Allison	157	1
+Wheeler County	5647	Briscoe	210	1
+Wheeler County	5647	Mobeetie	340	1
+Wheeler County	5647	Shamrock	2450	1
+Wheeler County	5647	Wheeler	2490	1
+Wichita County	110525	Burkburnett	10290	1
+Wichita County	110525	Electra	2420	1
+Wichita County	110525	Iowa Park	8470	1
+Wichita County	110525	Kamay	211	1
+Wichita County	110525	Sheppard Afb	2630	1
+Wichita County	110525	Wichita Falls	86504	8
+Wilbarger County	11488	Harrold	198	1
+Wilbarger County	11488	Odell	47	1
+Wilbarger County	11488	Oklaunion	166	1
+Wilbarger County	11488	Vernon	11077	2
+Willacy County	16841	Lasara	606	1
+Willacy County	16841	Lyford	3660	1
+Willacy County	16841	Port Mansfield	270	1
+Willacy County	16841	Raymondville	9900	1
+Willacy County	16841	San Perlita	427	1
+Willacy County	16841	Sebastian	1978	1
+Williamson County	485478	Austin	54450	2
+Williamson County	485478	Bartlett	1980	1
+Williamson County	485478	Cedar Park	76277	2
+Williamson County	485478	Coupland	1250	1
+Williamson County	485478	Florence	3960	1
+Williamson County	485478	Georgetown	76801	4
+Williamson County	485478	Granger	2250	1
+Williamson County	485478	Hutto	28610	1
+Williamson County	485478	Jarrell	6130	1
+Williamson County	485478	Leander	53412	2
+Williamson County	485478	Liberty Hill	11470	1
+Williamson County	485478	Mc Neil	60	1
+Williamson County	485478	Round Rock	149783	6
+Williamson County	485478	Schwertner	86	1
+Williamson County	485478	Taylor	16750	1
+Williamson County	485478	Thrall	1640	1
+Williamson County	485478	Walburg	142	1
+Williamson County	485478	Weir	427	1
+Wilson County	38044	Floresville	18770	1
+Wilson County	38044	La Vernia	12700	1
+Wilson County	38044	Pandora	60	1
+Wilson County	38044	Poth	2094	1
+Wilson County	38044	Stockdale	3700	1
+Wilson County	38044	Sutherland Springs	720	1
+Winkler County	7408	Kermit	6530	1
+Winkler County	7408	Wink	878	1
+Wise County	54971	Alvord	3010	1
+Wise County	54971	Boyd	5580	1
+Wise County	54971	Bridgeport	10270	1
+Wise County	54971	Chico	3050	1
+Wise County	54971	Decatur	15120	1
+Wise County	54971	Greenwood	96	1
+Wise County	54971	Newark	3620	1
+Wise County	54971	Paradise	5050	1
+Wise County	54971	Rhome	8890	1
+Wise County	54971	Slidell	285	1
+Wood County	38893	Alba	3800	1
+Wood County	38893	Golden	483	1
+Wood County	38893	Hawkins	5950	1
+Wood County	38893	Mineola	10660	1
+Wood County	38893	Quitman	6200	1
+Wood County	38893	Winnsboro	8940	1
+Wood County	38893	Yantis	2860	1
+Yoakum County	9299	Denver City	7260	1
+Yoakum County	9299	Plains	1920	1
+Yoakum County	9299	Tokio	119	1
+Young County	16746	Graham	12030	1
+Young County	16746	Loving	380	1
+Young County	16746	Newcastle	770	1
+Young County	16746	Olney	3400	1
+Young County	16746	South Bend	166	1
+Zapata County	12127	Lopeno	257	1
+Zapata County	12127	San Ygnacio	700	1
+Zapata County	12127	Zapata	11170	1
+Zavala County	10311	Batesville	1020	1
+Zavala County	10311	Crystal City	7650	1
+Zavala County	10311	La Pryor	1641	1
