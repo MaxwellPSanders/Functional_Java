@@ -1,0 +1,1638 @@
+County Name	City Name	Zip Type	Zip Pop	First Zip	No. Zips	City Pop
+Anderson County	Cayuga	PO BOX	199	75832	1	199
+Anderson County	Elkhart	STANDARD	4,460	75839	1	4,460
+Anderson County	Frankston	STANDARD	4,830	75763	1	4,830
+Anderson County	Montalba	STANDARD	850	75853	1	850
+Anderson County	Neches	PO BOX	484	75779	1	484
+Anderson County	Palestine	PO BOX	1,830	75802	1	28,771
+		STANDARD	26,930	75801	2	
+		UNIQUE	11	75882	1	
+Anderson County	Tennessee Colony	STANDARD	1,470	75861	1	1,575
+		UNIQUE	105	75880	3	
+Andrews County	Andrews	STANDARD	17,350	79714	1	17,350
+Angelina County	Diboll	STANDARD	7,120	75941	1	7,120
+Angelina County	Huntington	STANDARD	6,910	75949	1	6,910
+Angelina County	Lufkin	PO BOX	3,599	75902	3	58,269
+		STANDARD	54,670	75901	2	
+Angelina County	Pollok	STANDARD	3,120	75969	1	3,120
+Angelina County	Zavalla	STANDARD	1,940	75980	1	1,940
+Aransas County	Fulton	PO BOX	2,354	78358	1	2,354
+Aransas County	Rockport	PO BOX	3,080	78381	1	17,370
+		STANDARD	14,290	78382	1	
+Archer County	Archer City	PO BOX	1,720	76351	1	1,720
+Archer County	Holliday	STANDARD	1,960	76366	1	1,960
+Archer County	Megargel	PO BOX	295	76370	1	295
+Archer County	Scotland	STANDARD	450	76379	1	450
+Archer County	Windthorst	STANDARD	1,320	76389	1	1,320
+Armstrong County	Claude	STANDARD	1,610	79019	1	1,610
+Armstrong County	Wayside	STANDARD	67	79094	1	67
+Atascosa County	Campbellton	STANDARD	260	78008	1	260
+Atascosa County	Charlotte	STANDARD	1,900	78011	1	1,900
+Atascosa County	Christine	STANDARD	450	78012	1	450
+Atascosa County	Jourdanton	STANDARD	5,550	78026	1	5,550
+Atascosa County	Leming	PO BOX	1,172	78050	1	1,172
+Atascosa County	Lytle	STANDARD	6,990	78052	1	6,990
+Atascosa County	Peggy	PO BOX	0	78062	1	0
+Atascosa County	Pleasanton	STANDARD	13,470	78064	1	13,470
+Atascosa County	Poteet	STANDARD	9,580	78065	1	9,580
+Atascosa County	Somerset	STANDARD	4,630	78069	1	4,630
+Austin County	Bellville	STANDARD	8,810	77418	1	8,810
+Austin County	Bleiblerville	STANDARD	240	78931	1	240
+Austin County	Industry	STANDARD	620	78944	1	620
+Austin County	Kenney	PO BOX	222	77452	1	222
+Austin County	New Ulm	STANDARD	1,780	78950	1	1,780
+Austin County	San Felipe	PO BOX	490	77473	1	490
+Austin County	Sealy	STANDARD	13,140	77474	1	13,140
+Austin County	Wallis	STANDARD	2,960	77485	1	2,960
+Bailey County	Enochs	STANDARD	54	79324	1	54
+Bailey County	Maple	STANDARD	30	79344	1	30
+Bailey County	Muleshoe	STANDARD	7,630	79347	1	7,630
+Bandera County	Bandera	STANDARD	7,770	78003	1	7,770
+Bandera County	Medina	STANDARD	1,310	78055	1	1,310
+Bandera County	Pipe Creek	STANDARD	7,730	78063	1	7,730
+Bandera County	Tarpley	STANDARD	230	78883	1	230
+Bandera County	Vanderpool	STANDARD	149	78885	1	149
+Bastrop County	Bastrop	STANDARD	23,720	78602	1	23,720
+Bastrop County	Cedar Creek	STANDARD	12,470	78612	1	12,470
+Bastrop County	Elgin	STANDARD	21,410	78621	1	21,410
+Bastrop County	Mc Dade	STANDARD	1,370	78650	1	1,370
+Bastrop County	Paige	STANDARD	2,510	78659	1	2,510
+Bastrop County	Red Rock	STANDARD	2,110	78662	1	2,110
+Bastrop County	Rosanky	STANDARD	1,010	78953	1	1,010
+Bastrop County	Smithville	STANDARD	7,660	78957	1	7,660
+Baylor County	Seymour	STANDARD	2,940	76380	1	2,940
+Bee County	Beeville	PO BOX	2,511	78104	1	18,951
+		STANDARD	16,440	78102	1	
+Bee County	Mineral	PO BOX	145	78125	1	145
+Bee County	Normanna	PO BOX	230	78142	1	230
+Bee County	Pawnee	PO BOX	227	78145	1	227
+Bee County	Pettus	PO BOX	675	78146	1	675
+Bee County	Skidmore	STANDARD	1,670	78389	1	1,670
+Bee County	Tuleta	PO BOX	373	78162	1	373
+Bee County	Tynan	STANDARD	280	78391	1	280
+Bell County	Belton	STANDARD	33,020	76513	1	33,020
+Bell County	Burlington	STANDARD	490	76519	1	490
+Bell County	Fort Hood	STANDARD	23,160	76544	1	23,160
+Bell County	Harker Heights	STANDARD	27,060	76548	1	27,060
+Bell County	Heidenheimer	PO BOX	217	76533	1	217
+Bell County	Holland	STANDARD	2,440	76534	1	2,440
+Bell County	Killeen	PO BOX	1,836	76540	2	133,741
+		STANDARD	131,870	76541	4	
+		UNIQUE	35	76545	1	
+Bell County	Little River Academy	STANDARD	2,100	76554	1	2,100
+Bell County	Nolanville	STANDARD	4,880	76559	1	4,880
+Bell County	Pendleton	PO BOX	202	76564	1	202
+Bell County	Rogers	STANDARD	2,510	76569	1	2,510
+Bell County	Salado	STANDARD	7,270	76571	1	7,270
+Bell County	Temple	PO BOX	1,905	76503	2	70,005
+		STANDARD	68,100	76501	3	
+		UNIQUE	0	76508	1	
+Bell County	Troy	STANDARD	4,610	76579	1	4,610
+Bexar County	Adkins	STANDARD	7,890	78101	1	7,890
+Bexar County	Atascosa	STANDARD	6,860	78002	1	6,860
+Bexar County	Boerne	STANDARD	13,970	78015	1	13,970
+Bexar County	Converse	STANDARD	41,270	78109	1	41,270
+Bexar County	Elmendorf	STANDARD	7,800	78112	1	7,800
+Bexar County	Helotes	STANDARD	27,840	78023	1	27,840
+Bexar County	Lackland A F B	STANDARD	2,730	78236	1	2,730
+Bexar County	Macdona	PO BOX	584	78054	1	584
+Bexar County	Randolph A F B	STANDARD	553	78150	1	553
+Bexar County	Saint Hedwig	STANDARD	2,280	78152	1	2,280
+Bexar County	San Antonio	PO BOX	6,533	78246	18	1,519,992
+		STANDARD	1,513,375	78201	63	
+		UNIQUE	84	78287	3	
+Bexar County	Universal City	STANDARD	19,560	78148	1	19,560
+Bexar County	Von Ormy	STANDARD	7,550	78073	1	7,550
+Blanco County	Blanco	STANDARD	5,040	78606	1	5,040
+Blanco County	Hye	STANDARD	108	78635	1	108
+Blanco County	Johnson City	STANDARD	3,410	78636	1	3,410
+Blanco County	Round Mountain	STANDARD	600	78663	1	600
+Borden County	Gail	STANDARD	310	79738	1	310
+Bosque County	Clifton	STANDARD	5,870	76634	1	5,870
+Bosque County	Cranfills Gap	STANDARD	430	76637	1	430
+Bosque County	Iredell	STANDARD	610	76649	1	610
+Bosque County	Kopperl	STANDARD	870	76652	1	870
+Bosque County	Laguna Park	PO BOX	309	76644	1	309
+Bosque County	Meridian	STANDARD	2,110	76665	1	2,110
+Bosque County	Morgan	STANDARD	1,340	76671	1	1,340
+Bosque County	Valley Mills	STANDARD	3,480	76689	1	3,480
+Bosque County	Walnut Springs	STANDARD	1,060	76690	1	1,060
+Bowie County	De Kalb	STANDARD	4,920	75559	1	4,920
+Bowie County	Hooks	STANDARD	4,640	75561	1	4,640
+Bowie County	Maud	STANDARD	3,400	75567	1	3,400
+Bowie County	Nash	STANDARD	3,130	75569	1	3,130
+Bowie County	New Boston	STANDARD	7,800	75570	1	7,800
+Bowie County	Redwater	PO BOX	1,027	75573	1	1,027
+Bowie County	Simms	STANDARD	1,550	75574	1	1,550
+Bowie County	Texarkana	PO BOX	2,340	75504	2	54,510
+		STANDARD	52,170	75501	2	
+		UNIQUE	0	75507	2	
+Brazoria County	Alvin	PO BOX	2,663	77512	1	45,933
+		STANDARD	43,270	77511	1	
+Brazoria County	Angleton	PO BOX	2,547	77516	1	27,997
+		STANDARD	25,450	77515	1	
+Brazoria County	Brazoria	STANDARD	11,720	77422	1	11,720
+Brazoria County	Clute	STANDARD	14,410	77531	1	14,410
+Brazoria County	Damon	STANDARD	2,070	77430	1	2,070
+Brazoria County	Danbury	STANDARD	2,970	77534	1	2,970
+Brazoria County	Danciger	PO BOX	42	77431	1	42
+Brazoria County	Freeport	PO BOX	694	77542	1	15,784
+		STANDARD	15,090	77541	1	
+Brazoria County	Lake Jackson	STANDARD	28,660	77566	1	28,660
+Brazoria County	Liverpool	STANDARD	1,160	77577	1	1,160
+Brazoria County	Manvel	STANDARD	16,600	77578	1	16,600
+Brazoria County	Old Ocean	PO BOX	330	77463	1	330
+Brazoria County	Pearland	PO BOX	1,414	77588	1	122,094
+		STANDARD	120,680	77581	2	
+Brazoria County	Rosharon	STANDARD	23,230	77583	1	23,230
+Brazoria County	Sweeny	STANDARD	6,960	77480	1	6,960
+Brazoria County	West Columbia	STANDARD	6,600	77486	1	6,600
+Brazos County	Bryan	PO BOX	3,334	77805	2	82,184
+		STANDARD	78,850	77801	5	
+Brazos County	College Station	PO BOX	2,080	77841	3	69,597
+		STANDARD	67,410	77840	2	
+		UNIQUE	107	77843	1	
+Brazos County	Kurten	PO BOX	104	77862	1	104
+Brazos County	Millican	PO BOX	383	77866	1	383
+Brazos County	Wellborn	PO BOX	341	77881	1	341
+Brewster County	Alpine	PO BOX	1,976	79831	1	6,690
+		STANDARD	4,620	79830	1	
+		UNIQUE	94	79832	1	
+Brewster County	Big Bend National Park	PO BOX	208	79834	1	208
+Brewster County	Marathon	PO BOX	438	79842	1	438
+Brewster County	Terlingua	STANDARD	600	79852	1	600
+Briscoe County	Quitaque	STANDARD	410	79255	1	410
+Briscoe County	Silverton	STANDARD	850	79257	1	850
+Brooks County	Encino	STANDARD	270	78353	1	270
+Brooks County	Falfurrias	STANDARD	6,200	78355	1	6,200
+Brown County	Bangs	STANDARD	2,500	76823	1	2,500
+Brown County	Blanket	STANDARD	1,130	76432	1	1,130
+Brown County	Brookesmith	STANDARD	350	76827	1	350
+Brown County	Brownwood	PO BOX	1,714	76803	2	21,594
+		STANDARD	19,880	76801	1	
+Brown County	Early	STANDARD	4,260	76802	1	4,260
+Brown County	May	STANDARD	1,320	76857	1	1,320
+Brown County	Zephyr	STANDARD	790	76890	1	790
+Burleson County	Caldwell	STANDARD	10,250	77836	1	10,250
+Burleson County	Chriesman	PO BOX	119	77838	1	119
+Burleson County	Deanville	PO BOX	222	77852	1	222
+Burleson County	Lyons	PO BOX	507	77863	1	507
+Burleson County	Snook	PO BOX	970	77878	1	970
+Burleson County	Somerville	STANDARD	3,780	77879	1	3,780
+Burnet County	Bertram	STANDARD	4,660	78605	1	4,660
+Burnet County	Briggs	STANDARD	480	78608	1	480
+Burnet County	Burnet	STANDARD	11,640	78611	1	11,640
+Burnet County	Marble Falls	STANDARD	16,930	78654	1	16,930
+Caldwell County	Dale	STANDARD	7,710	78616	1	7,710
+Caldwell County	Fentress	PO BOX	399	78622	1	399
+Caldwell County	Lockhart	STANDARD	15,770	78644	1	15,770
+Caldwell County	Luling	STANDARD	6,730	78648	1	6,730
+Caldwell County	Martindale	STANDARD	2,670	78655	1	2,670
+Caldwell County	Maxwell	STANDARD	2,080	78656	1	2,080
+Caldwell County	Prairie Lea	PO BOX	447	78661	1	447
+Calhoun County	Point Comfort	PO BOX	770	77978	1	770
+Calhoun County	Port Lavaca	STANDARD	16,320	77979	1	16,320
+Calhoun County	Port O Connor	PO BOX	916	77982	1	916
+Calhoun County	Seadrift	STANDARD	1,850	77983	1	1,850
+Callahan County	Baird	STANDARD	2,280	79504	1	2,280
+Callahan County	Clyde	STANDARD	6,960	79510	1	6,960
+Callahan County	Cross Plains	STANDARD	1,590	76443	1	1,590
+Callahan County	Putnam	PO BOX	78	76469	1	78
+Cameron County	Brownsville	PO BOX	3,244	78522	2	192,274
+		STANDARD	189,030	78520	3	
+Cameron County	Combes	PO BOX	1,516	78535	1	1,516
+Cameron County	Harlingen	PO BOX	3,451	78551	2	77,241
+		STANDARD	73,790	78550	2	
+Cameron County	La Feria	STANDARD	10,480	78559	1	10,480
+Cameron County	Los Fresnos	STANDARD	14,880	78566	1	14,880
+Cameron County	Los Indios	PO BOX	1,257	78567	1	1,257
+Cameron County	Lozano	PO BOX	588	78568	1	588
+Cameron County	Olmito	STANDARD	4,230	78575	1	4,230
+Cameron County	Port Isabel	STANDARD	9,400	78578	1	9,400
+Cameron County	Rio Hondo	STANDARD	5,520	78583	1	5,520
+Cameron County	San Benito	STANDARD	46,250	78586	1	46,250
+Cameron County	Santa Maria	PO BOX	1,580	78592	1	1,580
+Cameron County	Santa Rosa	STANDARD	4,940	78593	1	4,940
+Cameron County	South Padre Island	STANDARD	2,180	78597	1	2,180
+Camp County	Leesburg	STANDARD	1,040	75451	1	1,040
+Camp County	Pittsburg	STANDARD	11,670	75686	1	11,670
+Carson County	Groom	STANDARD	690	79039	1	690
+Carson County	Panhandle	STANDARD	2,770	79068	1	2,770
+Carson County	Skellytown	STANDARD	430	79080	1	430
+Carson County	White Deer	STANDARD	1,090	79097	1	1,090
+Cass County	Atlanta	STANDARD	9,330	75551	1	9,330
+Cass County	Bivins	STANDARD	1,220	75555	1	1,220
+Cass County	Bloomburg	STANDARD	1,140	75556	1	1,140
+Cass County	Douglassville	STANDARD	890	75560	1	890
+Cass County	Hughes Springs	STANDARD	4,150	75656	1	4,150
+Cass County	Kildare	PO BOX	96	75562	1	96
+Cass County	Linden	STANDARD	3,360	75563	1	3,360
+Cass County	Marietta	STANDARD	550	75566	1	550
+Cass County	Mc Leod	PO BOX	602	75565	1	602
+Cass County	Queen City	STANDARD	3,060	75572	1	3,060
+Castro County	Dimmitt	STANDARD	4,590	79027	1	4,590
+Castro County	Hart	STANDARD	1,230	79043	1	1,230
+Castro County	Nazareth	STANDARD	690	79063	1	690
+Castro County	Summerfield	STANDARD	61	79085	1	61
+Chambers County	Anahuac	STANDARD	4,690	77514	1	4,690
+Chambers County	Baytown	STANDARD	20,410	77523	1	20,410
+Chambers County	Hankamer	STANDARD	960	77560	1	960
+Chambers County	Mont Belvieu	PO BOX	2,626	77580	1	2,626
+Chambers County	Stowell	PO BOX	686	77661	1	686
+Chambers County	Wallisville	STANDARD	670	77597	1	670
+Chambers County	Winnie	STANDARD	6,350	77665	1	6,350
+Cherokee County	Alto	STANDARD	3,160	75925	1	3,160
+Cherokee County	Cuney	PO BOX	125	75759	1	125
+Cherokee County	Gallatin	PO BOX	269	75764	1	269
+Cherokee County	Jacksonville	STANDARD	23,770	75766	1	23,770
+Cherokee County	Maydelle	PO BOX	162	75772	1	162
+Cherokee County	New Summerfield	PO BOX	1,053	75780	1	1,053
+Cherokee County	Reklaw	STANDARD	580	75784	1	580
+Cherokee County	Rusk	STANDARD	7,940	75785	1	7,940
+Cherokee County	Wells	PO BOX	1,026	75976	1	1,026
+Childress County	Childress	STANDARD	5,040	79201	1	5,040
+Childress County	Tell	STANDARD	46	79259	1	46
+Clay County	Bellevue	STANDARD	870	76228	1	870
+Clay County	Bluegrove	PO BOX	24	76352	1	24
+Clay County	Byers	STANDARD	590	76357	1	590
+Clay County	Henrietta	STANDARD	4,100	76365	1	4,100
+Clay County	Petrolia	STANDARD	640	76377	1	640
+Cochran County	Bledsoe	PO BOX	64	79314	1	64
+Cochran County	Morton	STANDARD	2,080	79346	1	2,080
+Cochran County	Whiteface	PO BOX	620	79379	1	620
+Coke County	Bronte	STANDARD	1,180	76933	1	1,180
+Coke County	Robert Lee	STANDARD	1,500	76945	1	1,500
+Coke County	Silver	STANDARD	0	76949	1	0
+Coke County	Tennyson	PO BOX	64	76953	1	64
+Coleman County	Burkett	STANDARD	154	76828	1	154
+Coleman County	Coleman	STANDARD	4,500	76834	1	4,500
+Coleman County	Goldsboro	STANDARD	60	79519	1	60
+Coleman County	Gouldbusk	STANDARD	130	76845	1	130
+Coleman County	Novice	STANDARD	200	79538	1	200
+Coleman County	Rockwood	STANDARD	38	76873	1	38
+Coleman County	Santa Anna	STANDARD	1,270	76878	1	1,270
+Coleman County	Talpa	STANDARD	210	76882	1	210
+Coleman County	Valera	STANDARD	167	76884	1	167
+Coleman County	Voss	STANDARD	83	76888	1	83
+Collin County	Allen	STANDARD	103,880	75002	2	103,880
+Collin County	Anna	STANDARD	14,220	75409	1	14,220
+Collin County	Blue Ridge	STANDARD	3,170	75424	1	3,170
+Collin County	Celina	STANDARD	10,590	75009	1	10,590
+Collin County	Copeville	PO BOX	575	75121	1	575
+Collin County	Dallas	STANDARD	21,910	75252	1	21,910
+Collin County	Farmersville	STANDARD	8,350	75442	1	8,350
+Collin County	Frisco	STANDARD	61,020	75033	2	61,020
+Collin County	Josephine	PO BOX	633	75164	1	633
+Collin County	Lavon	STANDARD	4,260	75166	1	4,260
+Collin County	Mckinney	STANDARD	169,620	75069	3	169,620
+Collin County	Melissa	STANDARD	8,600	75454	1	8,600
+Collin County	Nevada	STANDARD	4,630	75173	1	4,630
+Collin County	Plano	PO BOX	2,391	75026	2	289,131
+		STANDARD	286,740	75023	7	
+Collin County	Princeton	STANDARD	15,500	75407	1	15,500
+Collin County	Prosper	STANDARD	18,620	75078	1	18,620
+Collin County	Richardson	STANDARD	21,030	75082	1	21,030
+Collin County	Westminster	PO BOX	314	75485	1	314
+Collin County	Weston	PO BOX	280	75097	1	280
+Collin County	Wylie	STANDARD	53,260	75098	1	53,260
+Collingsworth County	Dodson	STANDARD	162	79230	1	162
+Collingsworth County	Quail	STANDARD	59	79251	1	59
+Collingsworth County	Sam Norwood	PO BOX	0	79077	1	0
+Collingsworth County	Wellington	STANDARD	2,300	79095	1	2,300
+Colorado County	Alleyton	STANDARD	820	78935	1	820
+Colorado County	Altair	PO BOX	233	77412	1	233
+Colorado County	Cat Spring	STANDARD	1,320	78933	1	1,320
+Colorado County	Columbus	STANDARD	6,310	78934	1	6,310
+Colorado County	Eagle Lake	STANDARD	4,360	77434	1	4,360
+Colorado County	Garwood	STANDARD	860	77442	1	860
+Colorado County	Glidden	STANDARD	350	78943	1	350
+Colorado County	Nada	PO BOX	278	77460	1	278
+Colorado County	Oakland	PO BOX	42	78951	1	42
+Colorado County	Rock Island	STANDARD	301	77470	1	301
+Colorado County	Sheridan	PO BOX	765	77475	1	765
+Colorado County	Weimar	STANDARD	4,140	78962	1	4,140
+Comal County	Bulverde	STANDARD	10,140	78163	1	10,140
+Comal County	Canyon Lake	STANDARD	15,360	78133	1	15,360
+Comal County	Fischer	STANDARD	1,050	78623	1	1,050
+Comal County	New Braunfels	PO BOX	1,911	78131	1	90,951
+		STANDARD	89,040	78130	2	
+		UNIQUE	0	78135	1	
+Comal County	San Antonio	STANDARD	6,810	78266	1	6,810
+Comal County	Spring Branch	STANDARD	15,150	78070	1	15,150
+Comanche County	Comanche	STANDARD	6,300	76442	1	6,300
+Comanche County	De Leon	STANDARD	2,920	76444	1	2,920
+Comanche County	Energy	PO BOX	79	76452	1	79
+Comanche County	Gustine	STANDARD	840	76455	1	840
+Comanche County	Proctor	PO BOX	250	76468	1	250
+Comanche County	Sidney	STANDARD	290	76474	1	290
+Concho County	Eden	STANDARD	1,120	76837	1	1,120
+Concho County	Lowake	PO BOX	19	76855	1	19
+Concho County	Millersview	STANDARD	137	76862	1	137
+Concho County	Paint Rock	STANDARD	450	76866	1	450
+Cooke County	Era	STANDARD	520	76238	1	520
+Cooke County	Gainesville	PO BOX	1,748	76241	1	25,428
+		STANDARD	23,680	76240	1	
+Cooke County	Lindsay	STANDARD	1,230	76250	1	1,230
+Cooke County	Muenster	STANDARD	2,900	76252	1	2,900
+Cooke County	Myra	PO BOX	214	76253	1	214
+Cooke County	Rosston	STANDARD	85	76263	1	85
+Cooke County	Valley View	STANDARD	4,420	76272	1	4,420
+Coryell County	Copperas Cove	STANDARD	35,480	76522	1	35,480
+Coryell County	Evant	STANDARD	880	76525	1	880
+Coryell County	Flat	PO BOX	142	76526	1	142
+Coryell County	Gatesville	STANDARD	13,940	76528	1	14,021
+		UNIQUE	81	76596	4	
+Coryell County	Jonesboro	STANDARD	660	76538	1	660
+Coryell County	Mound	PO BOX	83	76558	1	83
+Coryell County	Oglesby	STANDARD	900	76561	1	900
+Coryell County	Purmela	STANDARD	270	76566	1	270
+Cottle County	Cee Vee	STANDARD	18	79223	1	18
+Cottle County	Paducah	STANDARD	1,210	79248	1	1,210
+Crane County	Crane	STANDARD	4,780	79731	1	4,780
+Crane County	Girvin	STANDARD	0	79740	1	0
+Crockett County	El Paso	PO BOX	80	79942	1	80
+Crockett County	Ozona	STANDARD	3,640	76943	1	3,640
+Crosby County	Crosbyton	STANDARD	1,590	79322	1	1,590
+Crosby County	Lorenzo	STANDARD	1,290	79343	1	1,290
+Crosby County	Ralls	STANDARD	1,990	79357	1	1,990
+Culberson County	Van Horn	PO BOX	2,344	79855	1	2,344
+Dallam County	Dalhart	STANDARD	9,840	79022	1	9,840
+Dallam County	Kerrick	PO BOX	51	79051	1	51
+Dallam County	Texline	STANDARD	650	79087	1	650
+Dallas County	Addison	STANDARD	14,070	75001	1	14,070
+Dallas County	Balch Springs	STANDARD	23,110	75180	1	23,110
+Dallas County	Carrollton	PO BOX	1,742	75011	1	50,192
+		STANDARD	48,450	75006	1	
+Dallas County	Cedar Hill	PO BOX	1,480	75106	1	46,260
+		STANDARD	44,780	75104	1	
+Dallas County	Coppell	STANDARD	42,580	75019	1	42,580
+		UNIQUE	0	75099	1	
+Dallas County	Dallas	PO BOX	14,482	75221	30	1,160,626
+		STANDARD	1,145,598	75201	52	
+		UNIQUE	546	75275	23	
+Dallas County	Desoto	PO BOX	1,372	75123	1	49,222
+		STANDARD	47,850	75115	1	
+Dallas County	Duncanville	PO BOX	1,513	75138	1	39,413
+		STANDARD	37,900	75116	2	
+Dallas County	Garland	PO BOX	2,778	75045	4	230,548
+		STANDARD	227,770	75040	5	
+Dallas County	Grand Prairie	PO BOX	1,604	75053	1	168,004
+		STANDARD	166,400	75050	3	
+Dallas County	Hutchins	STANDARD	3,500	75141	1	3,500
+Dallas County	Irving	PO BOX	3,305	75014	4	232,375
+		STANDARD	229,070	75038	6	
+Dallas County	Lancaster	STANDARD	38,210	75134	2	38,210
+Dallas County	Mesquite	PO BOX	2,163	75185	2	140,683
+		STANDARD	138,520	75149	3	
+Dallas County	Richardson	PO BOX	2,460	75083	2	76,760
+		STANDARD	74,300	75080	2	
+Dallas County	Rowlett	PO BOX	1,039	75030	1	55,739
+		STANDARD	54,700	75088	2	
+Dallas County	Sachse	STANDARD	23,010	75048	1	23,010
+Dallas County	Seagoville	STANDARD	15,970	75159	1	15,970
+Dallas County	Sunnyvale	STANDARD	6,380	75182	1	6,380
+Dallas County	Wilmer	STANDARD	4,080	75172	1	4,080
+Dawson County	Lamesa	STANDARD	10,030	79331	1	10,030
+Dawson County	Welch	STANDARD	300	79377	1	300
+Deaf Smith County	Dawn	PO BOX	97	79025	1	97
+Deaf Smith County	Hereford	STANDARD	19,440	79045	1	19,440
+Delta County	Ben Franklin	STANDARD	157	75415	1	157
+Delta County	Cooper	STANDARD	2,720	75432	1	2,720
+Delta County	Enloe	PO BOX	109	75441	1	109
+Delta County	Klondike	STANDARD	520	75448	1	520
+Delta County	Lake Creek	STANDARD	200	75450	1	200
+Delta County	Pecan Gap	STANDARD	300	75469	1	300
+Denton County	Argyle	STANDARD	22,740	76226	1	22,740
+Denton County	Aubrey	STANDARD	27,410	76227	1	27,410
+Denton County	Carrollton	STANDARD	77,310	75007	2	77,310
+Denton County	Dallas	STANDARD	48,340	75287	1	48,340
+Denton County	Denton	PO BOX	2,737	76202	4	126,507
+		STANDARD	123,770	76201	6	
+Denton County	Flower Mound	PO BOX	670	75027	1	68,070
+		STANDARD	67,400	75022	2	
+Denton County	Frisco	STANDARD	56,190	75034	1	56,190
+Denton County	Justin	STANDARD	14,250	76247	1	14,250
+Denton County	Krum	STANDARD	8,530	76249	1	8,530
+Denton County	Lake Dallas	STANDARD	10,800	75065	1	10,800
+Denton County	Lewisville	PO BOX	1,074	75029	1	114,564
+		STANDARD	113,490	75057	3	
+Denton County	Little Elm	STANDARD	46,950	75068	1	46,950
+Denton County	Pilot Point	STANDARD	6,840	76258	1	6,840
+Denton County	Ponder	STANDARD	4,590	76259	1	4,590
+Denton County	Roanoke	STANDARD	34,490	76262	1	34,490
+Denton County	Sanger	STANDARD	13,720	76266	1	13,720
+Denton County	The Colony	STANDARD	54,880	75056	1	54,880
+Dickens County	Afton	STANDARD	121	79220	1	121
+Dickens County	Dickens	STANDARD	250	79229	1	250
+Dickens County	Mcadoo	STANDARD	79	79243	1	79
+Dickens County	Spur	STANDARD	1,240	79370	1	1,240
+Dimmit County	Asherton	STANDARD	1,220	78827	1	1,220
+Dimmit County	Big Wells	STANDARD	610	78830	1	610
+Dimmit County	Carrizo Springs	STANDARD	7,550	78834	1	7,550
+Dimmit County	Catarina	PO BOX	156	78836	1	156
+Donley County	Clarendon	STANDARD	2,410	79226	1	2,410
+Donley County	Hedley	STANDARD	320	79237	1	320
+Donley County	Lelia Lake	STANDARD	67	79240	1	67
+Duval County	Benavides	PO BOX	1,670	78341	1	1,670
+Duval County	Concepcion	STANDARD	330	78349	1	330
+Duval County	Freer	STANDARD	3,180	78357	1	3,180
+Duval County	Realitos	STANDARD	280	78376	1	280
+Duval County	San Diego	STANDARD	5,200	78384	1	5,200
+Eastland County	Carbon	STANDARD	540	76435	1	540
+Eastland County	Cisco	STANDARD	4,470	76437	1	4,470
+Eastland County	Desdemona	STANDARD	270	76445	1	270
+Eastland County	Eastland	STANDARD	4,790	76448	1	4,790
+Eastland County	Gorman	STANDARD	1,330	76454	1	1,330
+Eastland County	Olden	PO BOX	293	76466	1	293
+Eastland County	Ranger	STANDARD	2,300	76470	1	2,300
+Eastland County	Rising Star	STANDARD	1,210	76471	1	1,210
+Ector County	Gardendale	STANDARD	2,830	79758	1	2,830
+Ector County	Goldsmith	STANDARD	360	79741	1	360
+Ector County	Notrees	PO BOX	0	79759	1	0
+Ector County	Odessa	PO BOX	4,054	79760	3	150,704
+		STANDARD	146,650	79761	6	
+Ector County	Penwell	PO BOX	21	79776	1	21
+Edwards County	Barksdale	STANDARD	230	78828	1	230
+Edwards County	Rocksprings	STANDARD	1,340	78880	1	1,340
+El Paso County	Anthony	STANDARD	4,780	79821	1	4,780
+El Paso County	Canutillo	STANDARD	11,640	79835	1	11,640
+El Paso County	Clint	STANDARD	6,460	79836	1	6,460
+El Paso County	El Paso	PO BOX	8,132	79913	107	728,169
+		STANDARD	719,775	79901	23	
+		UNIQUE	262	79958	7	
+El Paso County	Fabens	PO BOX	8,957	79838	1	8,957
+El Paso County	Fort Bliss	STANDARD	1,665	79916	2	1,665
+El Paso County	San Elizario	STANDARD	13,370	79849	1	13,370
+El Paso County	Tornillo	PO BOX	3,267	79853	1	3,267
+Ellis County	Avalon	PO BOX	430	76623	1	430
+Ellis County	Bardwell	PO BOX	738	75101	1	738
+Ellis County	Ennis	PO BOX	1,273	75120	1	25,463
+		STANDARD	24,190	75119	1	
+Ellis County	Ferris	STANDARD	6,790	75125	1	6,790
+Ellis County	Forreston	STANDARD	390	76041	1	390
+Ellis County	Italy	STANDARD	2,760	76651	1	2,760
+Ellis County	Maypearl	STANDARD	1,910	76064	1	1,910
+Ellis County	Midlothian	STANDARD	33,310	76065	1	33,310
+Ellis County	Milford	STANDARD	1,210	76670	1	1,210
+Ellis County	Palmer	STANDARD	4,710	75152	1	4,710
+Ellis County	Red Oak	STANDARD	37,570	75154	1	37,570
+Ellis County	Waxahachie	PO BOX	1,145	75168	1	47,455
+		STANDARD	46,310	75165	2	
+Erath County	Bluff Dale	STANDARD	1,220	76433	1	1,220
+Erath County	Dublin	STANDARD	7,330	76446	1	7,330
+Erath County	Lingleville	PO BOX	208	76461	1	208
+Erath County	Morgan Mill	PO BOX	299	76465	1	299
+Erath County	Stephenville	STANDARD	20,610	76401	1	20,703
+		UNIQUE	93	76402	1	
+Falls County	Chilton	STANDARD	1,520	76632	1	1,520
+Falls County	Lott	STANDARD	1,990	76656	1	1,990
+Falls County	Marlin	STANDARD	5,380	76661	1	5,380
+Falls County	Reagan	STANDARD	205	76680	1	205
+Falls County	Rosebud	STANDARD	2,080	76570	1	2,080
+Falls County	Satin	PO BOX	93	76685	1	93
+Fannin County	Bailey	PO BOX	312	75413	1	312
+Fannin County	Bonham	STANDARD	9,770	75418	1	9,770
+Fannin County	Dodd City	STANDARD	950	75438	1	950
+Fannin County	Ector	STANDARD	810	75439	1	810
+Fannin County	Gober	PO BOX	108	75443	1	108
+Fannin County	Honey Grove	STANDARD	2,970	75446	1	2,970
+Fannin County	Ivanhoe	STANDARD	900	75447	1	900
+Fannin County	Ladonia	STANDARD	860	75449	1	860
+Fannin County	Leonard	STANDARD	3,970	75452	1	3,970
+Fannin County	Randolph	PO BOX	233	75475	1	233
+Fannin County	Ravenna	STANDARD	1,050	75476	1	1,050
+Fannin County	Savoy	STANDARD	1,430	75479	1	1,430
+Fannin County	Telephone	STANDARD	940	75488	1	940
+Fannin County	Trenton	STANDARD	2,150	75490	1	2,150
+Fannin County	Windom	STANDARD	470	75492	1	470
+Fayette County	Carmine	STANDARD	720	78932	1	720
+Fayette County	Ellinger	STANDARD	360	78938	1	360
+Fayette County	Fayetteville	STANDARD	1,730	78940	1	1,730
+Fayette County	Flatonia	STANDARD	2,690	78941	1	2,690
+Fayette County	La Grange	STANDARD	9,400	78945	1	9,400
+Fayette County	Muldoon	STANDARD	400	78949	1	400
+Fayette County	Plum	PO BOX	182	78952	1	182
+Fayette County	Round Top	STANDARD	1,010	78954	1	1,010
+Fayette County	Schulenburg	STANDARD	4,740	78956	1	4,740
+Fayette County	Warda	PO BOX	161	78960	1	161
+Fayette County	Warrenton	PO BOX	0	78961	1	0
+Fayette County	West Point	STANDARD	770	78963	1	770
+Fisher County	Mc Caulley	STANDARD	160	79534	1	160
+Fisher County	Roby	STANDARD	1,010	79543	1	1,010
+Fisher County	Rotan	STANDARD	1,530	79546	1	1,530
+Fisher County	Sylvester	STANDARD	117	79560	1	117
+Floyd County	Aiken	PO BOX	0	79221	1	0
+Floyd County	Dougherty	PO BOX	51	79231	1	51
+Floyd County	Floydada	STANDARD	3,050	79235	1	3,050
+Floyd County	Lockney	STANDARD	2,100	79241	1	2,100
+Floyd County	South Plains	PO BOX	71	79258	1	71
+Foard County	Crowell	STANDARD	1,000	79227	1	1,000
+Fort Bend County	Beasley	STANDARD	1,840	77417	1	1,840
+Fort Bend County	Fresno	STANDARD	21,870	77545	1	21,870
+Fort Bend County	Fulshear	STANDARD	13,190	77441	1	13,190
+Fort Bend County	Guy	STANDARD	770	77444	1	770
+Fort Bend County	Houston	STANDARD	29,290	77053	1	29,290
+Fort Bend County	Katy	STANDARD	98,080	77494	1	98,080
+Fort Bend County	Kendleton	PO BOX	449	77451	1	449
+Fort Bend County	Missouri City	STANDARD	100,830	77459	2	100,830
+Fort Bend County	Needville	STANDARD	10,250	77461	1	10,250
+Fort Bend County	Orchard	PO BOX	641	77464	1	641
+Fort Bend County	Richmond	STANDARD	123,990	77406	3	123,990
+Fort Bend County	Rosenberg	STANDARD	36,130	77471	1	36,130
+Fort Bend County	Simonton	PO BOX	1,080	77476	1	1,080
+Fort Bend County	Stafford	PO BOX	1,056	77497	1	32,496
+		STANDARD	31,440	77477	1	
+Fort Bend County	Sugar Land	PO BOX	1,518	77487	2	156,188
+		STANDARD	154,670	77478	3	
+Fort Bend County	Thompsons	PO BOX	232	77481	1	232
+Franklin County	Mount Vernon	STANDARD	5,610	75457	1	5,610
+Franklin County	Scroggins	STANDARD	1,250	75480	1	1,250
+Freestone County	Donie	STANDARD	510	75838	1	510
+Freestone County	Fairfield	STANDARD	7,010	75840	1	7,010
+Freestone County	Kirvin	PO BOX	138	75848	1	138
+Freestone County	Streetman	STANDARD	1,590	75859	1	1,590
+Freestone County	Teague	STANDARD	5,040	75860	1	5,040
+Freestone County	Wortham	STANDARD	1,560	76693	1	1,560
+Frio County	Bigfoot	STANDARD	660	78005	1	660
+Frio County	Dilley	STANDARD	3,650	78017	1	3,650
+Frio County	Moore	STANDARD	980	78057	1	980
+Frio County	Pearsall	STANDARD	8,570	78061	1	8,570
+Gaines County	Loop	STANDARD	390	79342	1	390
+Gaines County	Seagraves	STANDARD	2,820	79359	1	2,820
+Gaines County	Seminole	STANDARD	14,870	79360	1	14,870
+Galveston County	Bacliff	STANDARD	8,800	77518	1	8,800
+Galveston County	Dickinson	STANDARD	38,890	77539	1	38,890
+Galveston County	Friendswood	PO BOX	1,058	77549	1	50,488
+		STANDARD	49,430	77546	1	
+Galveston County	Galveston	PO BOX	1,859	77552	2	43,152
+		STANDARD	41,120	77550	3	
+		UNIQUE	173	77555	1	
+Galveston County	Gilchrist	PO BOX	296	77617	1	296
+Galveston County	High Island	STANDARD	335	77623	1	335
+Galveston County	Hitchcock	STANDARD	8,560	77563	1	8,560
+Galveston County	Kemah	STANDARD	6,710	77565	1	6,710
+Galveston County	La Marque	STANDARD	13,850	77568	1	13,850
+Galveston County	League City	PO BOX	1,271	77574	1	79,851
+		STANDARD	78,580	77573	1	
+Galveston County	Port Bolivar	PO BOX	2,435	77650	1	2,435
+Galveston County	Santa Fe	STANDARD	18,700	77510	2	18,700
+Galveston County	Texas City	PO BOX	1,597	77592	1	40,087
+		STANDARD	38,490	77590	2	
+Garza County	Justiceburg	STANDARD	48	79330	1	48
+Garza County	Post	STANDARD	3,900	79356	1	3,900
+Gillespie County	Doss	STANDARD	210	78618	1	210
+Gillespie County	Fredericksburg	STANDARD	20,470	78624	1	20,470
+Gillespie County	Harper	STANDARD	2,400	78631	1	2,400
+Gillespie County	Stonewall	STANDARD	720	78671	1	720
+Gillespie County	Willow City	STANDARD	166	78675	1	166
+Glasscock County	Garden City	STANDARD	1,080	79739	1	1,080
+Goliad County	Berclair	PO BOX	233	78107	1	233
+Goliad County	Fannin	PO BOX	151	77960	1	151
+Goliad County	Goliad	STANDARD	4,800	77963	1	4,800
+Goliad County	Weesatche	PO BOX	140	77993	1	140
+Gonzales County	Belmont	PO BOX	70	78604	1	70
+Gonzales County	Cost	STANDARD	490	78614	1	490
+Gonzales County	Gonzales	STANDARD	11,110	78629	1	11,110
+Gonzales County	Harwood	STANDARD	920	78632	1	920
+Gonzales County	Leesville	STANDARD	290	78122	1	290
+Gonzales County	Nixon	STANDARD	3,290	78140	1	3,290
+Gonzales County	Ottine	PO BOX	32	78658	1	32
+Gonzales County	Smiley	STANDARD	860	78159	1	860
+Gonzales County	Waelder	STANDARD	1,760	78959	1	1,760
+Gonzales County	Wrightsboro	STANDARD	50	78677	1	50
+Gray County	Alanreed	PO BOX	40	79002	1	40
+Gray County	Lefors	PO BOX	604	79054	1	604
+Gray County	Mclean	STANDARD	950	79057	1	950
+Gray County	Pampa	PO BOX	1,048	79066	1	19,168
+		STANDARD	18,120	79065	1	
+Grayson County	Bells	STANDARD	2,810	75414	1	2,810
+Grayson County	Collinsville	STANDARD	2,940	76233	1	2,940
+Grayson County	Denison	STANDARD	26,110	75020	2	26,110
+Grayson County	Gordonville	STANDARD	1,400	76245	1	1,400
+Grayson County	Gunter	STANDARD	2,940	75058	1	2,940
+Grayson County	Howe	STANDARD	4,030	75459	1	4,030
+Grayson County	Pottsboro	STANDARD	6,680	75076	1	6,680
+Grayson County	Sadler	STANDARD	1,250	76264	1	1,250
+Grayson County	Sherman	PO BOX	1,891	75091	1	43,351
+		STANDARD	41,460	75090	2	
+Grayson County	Southmayd	PO BOX	367	76268	1	367
+Grayson County	Tioga	STANDARD	1,470	76271	1	1,470
+Grayson County	Tom Bean	PO BOX	1,249	75489	1	1,249
+Grayson County	Van Alstyne	STANDARD	7,180	75495	1	7,180
+Grayson County	Whitesboro	STANDARD	8,170	76273	1	8,170
+Grayson County	Whitewright	STANDARD	4,230	75491	1	4,230
+Gregg County	Easton	PO BOX	271	75641	1	271
+Gregg County	Gladewater	STANDARD	11,730	75647	1	11,730
+Gregg County	Judson	PO BOX	484	75660	1	484
+Gregg County	Kilgore	PO BOX	2,304	75663	1	24,494
+		STANDARD	22,190	75662	1	
+Gregg County	Longview	PO BOX	5,624	75606	4	98,924
+		STANDARD	93,300	75601	5	
+Gregg County	White Oak	STANDARD	6,310	75693	1	6,310
+Grimes County	Anderson	STANDARD	2,550	77830	1	2,550
+Grimes County	Bedias	STANDARD	2,520	77831	1	2,520
+Grimes County	Iola	STANDARD	2,190	77861	1	2,190
+Grimes County	Navasota	STANDARD	12,280	77868	1	12,280
+Grimes County	Plantersville	STANDARD	3,020	77363	1	3,020
+Grimes County	Richards	STANDARD	1,090	77873	1	1,090
+Grimes County	Roans Prairie	PO BOX	126	77875	1	126
+Grimes County	Shiro	PO BOX	384	77876	1	384
+Guadalupe County	Cibolo	STANDARD	35,880	78108	1	35,880
+Guadalupe County	Geronimo	PO BOX	419	78115	1	419
+Guadalupe County	Kingsbury	STANDARD	1,840	78638	1	1,840
+Guadalupe County	Marion	STANDARD	5,540	78124	1	5,540
+Guadalupe County	Mc Queeney	STANDARD	2,160	78123	1	2,160
+Guadalupe County	Schertz	STANDARD	34,510	78154	1	34,510
+Guadalupe County	Seguin	PO BOX	1,487	78156	1	42,327
+		STANDARD	40,840	78155	1	
+Guadalupe County	Staples	PO BOX	333	78670	1	333
+Hale County	Abernathy	STANDARD	3,070	79311	1	3,070
+Hale County	Cotton Center	PO BOX	196	79021	1	196
+Hale County	Edmonson	PO BOX	184	79032	1	184
+Hale County	Hale Center	STANDARD	2,600	79041	1	2,600
+Hale County	Petersburg	STANDARD	1,260	79250	1	1,260
+Hale County	Plainview	PO BOX	1,362	79073	1	23,082
+		STANDARD	21,720	79072	1	
+Hall County	Estelline	PO BOX	154	79233	1	154
+Hall County	Lakeview	STANDARD	167	79239	1	167
+Hall County	Memphis	STANDARD	1,980	79245	1	1,980
+Hall County	Turkey	STANDARD	340	79261	1	340
+Hamilton County	Carlton	STANDARD	180	76436	1	180
+Hamilton County	Hamilton	STANDARD	3,970	76531	1	3,970
+Hamilton County	Hico	STANDARD	3,070	76457	1	3,070
+Hamilton County	Pottsville	STANDARD	90	76565	1	90
+Hansford County	Gruver	STANDARD	1,800	79040	1	1,800
+Hansford County	Morse	STANDARD	250	79062	1	250
+Hansford County	Spearman	STANDARD	3,750	79081	1	3,750
+Hardeman County	Chillicothe	STANDARD	870	79225	1	870
+Hardeman County	Quanah	STANDARD	2,480	79252	1	2,480
+Hardin County	Batson	STANDARD	980	77519	1	980
+Hardin County	Kountze	STANDARD	7,690	77625	1	7,690
+Hardin County	Lumberton	STANDARD	19,330	77657	1	19,330
+Hardin County	Saratoga	STANDARD	780	77585	1	780
+Hardin County	Silsbee	STANDARD	14,830	77656	1	14,830
+Hardin County	Sour Lake	STANDARD	4,670	77659	1	4,670
+Hardin County	Thicket	PO BOX	421	77374	1	421
+Hardin County	Village Mills	PO BOX	1,284	77663	1	1,284
+Hardin County	Votaw	PO BOX	296	77376	1	296
+Harris County	Alief	PO BOX	1,018	77411	1	1,018
+Harris County	Barker	PO BOX	224	77413	1	224
+Harris County	Baytown	PO BOX	3,001	77522	1	92,521
+		STANDARD	89,520	77520	2	
+Harris County	Bellaire	PO BOX	1,570	77402	1	18,900
+		STANDARD	17,330	77401	1	
+Harris County	Channelview	STANDARD	32,090	77530	1	32,090
+Harris County	Crosby	STANDARD	27,120	77532	1	27,120
+Harris County	Cypress	PO BOX	1,063	77410	1	155,383
+		STANDARD	154,320	77429	2	
+Harris County	Deer Park	STANDARD	31,920	77536	1	31,920
+Harris County	Galena Park	STANDARD	9,640	77547	1	9,640
+Harris County	Highlands	STANDARD	10,230	77562	1	10,230
+Harris County	Hockley	STANDARD	13,910	77447	1	13,910
+Harris County	Houston	PO BOX	43,082	77001	75	2,809,314
+		STANDARD	2,766,210	77002	96	
+		UNIQUE	22	77204	6	
+Harris County	Huffman	STANDARD	12,900	77336	1	12,900
+Harris County	Hufsmith	PO BOX	0	77337	1	0
+Harris County	Humble	PO BOX	1,578	77347	1	143,278
+		STANDARD	141,700	77338	3	
+Harris County	Katy	STANDARD	201,700	77449	3	201,700
+Harris County	Kingwood	PO BOX	783	77325	1	65,873
+		STANDARD	65,090	77339	2	
+Harris County	La Porte	PO BOX	1,063	77572	1	35,253
+		STANDARD	34,190	77571	1	
+Harris County	North Houston	STANDARD	0	77315	1	0
+Harris County	Pasadena	PO BOX	1,843	77501	2	137,980
+		STANDARD	136,137	77502	6	
+Harris County	Seabrook	STANDARD	21,420	77586	1	21,420
+Harris County	South Houston	STANDARD	15,890	77587	1	15,890
+Harris County	Spring	PO BOX	3,569	77383	4	206,249
+		STANDARD	202,680	77373	4	
+Harris County	Tomball	STANDARD	81,250	77375	2	81,250
+Harris County	Webster	STANDARD	20,100	77598	1	20,100
+Harrison County	Elysian Fields	PO BOX	525	75642	1	525
+Harrison County	Hallsville	STANDARD	9,010	75650	1	9,010
+Harrison County	Harleton	STANDARD	2,080	75651	1	2,080
+Harrison County	Jonesville	PO BOX	226	75659	1	226
+Harrison County	Karnack	STANDARD	1,920	75661	1	1,920
+Harrison County	Marshall	PO BOX	1,944	75671	1	31,124
+		STANDARD	29,180	75670	2	
+Harrison County	Scottsville	PO BOX	429	75688	1	429
+Harrison County	Waskom	STANDARD	4,580	75692	1	4,580
+Harrison County	Woodlawn	PO BOX	378	75694	1	378
+Hartley County	Channing	STANDARD	410	79018	1	410
+Hartley County	Hartley	STANDARD	790	79044	1	790
+Haskell County	Haskell	STANDARD	2,920	79521	1	2,920
+Haskell County	O Brien	STANDARD	128	79539	1	128
+Haskell County	Rochester	STANDARD	370	79544	1	370
+Haskell County	Rule	STANDARD	764	79547	2	764
+Haskell County	Weinert	STANDARD	217	76388	1	217
+Hays County	Austin	STANDARD	16,010	78737	1	16,010
+Hays County	Buda	STANDARD	31,310	78610	1	31,310
+Hays County	Driftwood	STANDARD	4,020	78619	1	4,020
+Hays County	Dripping Springs	STANDARD	15,950	78620	1	15,950
+Hays County	Kyle	STANDARD	48,090	78640	1	48,090
+Hays County	San Marcos	PO BOX	1,772	78667	1	48,462
+		STANDARD	46,690	78666	1	
+Hays County	Wimberley	STANDARD	12,270	78676	1	12,270
+Hemphill County	Canadian	STANDARD	4,360	79014	1	4,360
+Henderson County	Athens	STANDARD	20,290	75751	2	20,290
+Henderson County	Brownsboro	STANDARD	3,640	75756	1	3,640
+Henderson County	Chandler	STANDARD	8,290	75758	1	8,290
+Henderson County	Eustace	STANDARD	3,900	75124	1	3,900
+Henderson County	Kemp	STANDARD	11,570	75143	1	11,570
+Henderson County	Larue	STANDARD	2,230	75770	1	2,230
+Henderson County	Mabank	STANDARD	11,130	75156	1	11,130
+Henderson County	Malakoff	STANDARD	4,630	75148	1	4,630
+Henderson County	Murchison	STANDARD	2,650	75778	1	2,650
+Henderson County	Poynor	PO BOX	357	75782	1	357
+Henderson County	Trinidad	STANDARD	1,870	75163	1	1,870
+Hidalgo County	Alamo	STANDARD	28,010	78516	1	28,010
+Hidalgo County	Donna	STANDARD	37,100	78537	1	37,100
+Hidalgo County	Edcouch	STANDARD	9,620	78538	1	9,620
+Hidalgo County	Edinburg	PO BOX	5,041	78540	1	122,391
+		STANDARD	117,350	78539	3	
+Hidalgo County	Elsa	PO BOX	8,228	78543	1	8,228
+Hidalgo County	Hargill	PO BOX	1,006	78549	1	1,006
+Hidalgo County	Hidalgo	STANDARD	15,400	78557	1	15,400
+Hidalgo County	La Blanca	PO BOX	2,904	78558	1	2,904
+Hidalgo County	La Joya	STANDARD	4,630	78560	1	4,630
+Hidalgo County	La Villa	PO BOX	2,128	78562	1	2,128
+Hidalgo County	Linn	STANDARD	550	78563	1	550
+Hidalgo County	Los Ebanos	PO BOX	1,286	78565	1	1,286
+Hidalgo County	Mcallen	PO BOX	6,458	78502	2	122,818
+		STANDARD	116,360	78501	3	
+Hidalgo County	Mercedes	STANDARD	28,710	78570	1	28,710
+Hidalgo County	Mission	STANDARD	146,840	78572	3	146,840
+Hidalgo County	Penitas	STANDARD	10,100	78576	1	10,100
+Hidalgo County	Pharr	STANDARD	65,380	78577	1	65,380
+Hidalgo County	Progreso	PO BOX	4,374	78579	1	4,374
+Hidalgo County	San Juan	STANDARD	37,390	78589	1	37,390
+Hidalgo County	Sullivan City	STANDARD	5,090	78595	1	5,090
+Hidalgo County	Weslaco	PO BOX	4,239	78599	1	36,889
+		STANDARD	32,650	78596	1	
+Hill County	Abbott	STANDARD	1,040	76621	1	1,040
+Hill County	Aquilla	STANDARD	910	76622	1	910
+Hill County	Blum	STANDARD	1,420	76627	1	1,420
+Hill County	Brandon	PO BOX	107	76628	1	107
+Hill County	Bynum	STANDARD	430	76631	1	430
+Hill County	Covington	STANDARD	1,380	76636	1	1,380
+Hill County	Hillsboro	STANDARD	10,010	76645	1	10,010
+Hill County	Hubbard	STANDARD	2,060	76648	1	2,060
+Hill County	Irene	PO BOX	84	76650	1	84
+Hill County	Itasca	STANDARD	2,490	76055	1	2,490
+Hill County	Malone	STANDARD	390	76660	1	390
+Hill County	Mertens	STANDARD	230	76666	1	230
+Hill County	Mount Calm	STANDARD	980	76673	1	980
+Hill County	Penelope	STANDARD	320	76676	1	320
+Hill County	Whitney	STANDARD	8,130	76692	1	8,130
+Hockley County	Anton	STANDARD	1,270	79313	1	1,270
+Hockley County	Levelland	PO BOX	197	79338	1	14,677
+		STANDARD	14,480	79336	1	
+Hockley County	Pep	STANDARD	29	79353	1	29
+Hockley County	Ropesville	STANDARD	1,060	79358	1	1,060
+Hockley County	Smyer	PO BOX	670	79367	1	670
+Hockley County	Sundown	PO BOX	1,530	79372	1	1,530
+Hockley County	Whitharral	PO BOX	184	79380	1	184
+Hood County	Granbury	STANDARD	45,200	76048	2	45,200
+Hood County	Lipan	STANDARD	2,630	76462	1	2,630
+Hood County	Paluxy	PO BOX	63	76467	1	63
+Hood County	Tolar	STANDARD	2,420	76476	1	2,420
+Hopkins County	Brashear	STANDARD	990	75420	1	990
+Hopkins County	Como	STANDARD	1,840	75431	1	1,840
+Hopkins County	Cumby	STANDARD	2,260	75433	1	2,260
+Hopkins County	Dike	STANDARD	990	75437	1	990
+Hopkins County	Pickton	STANDARD	1,230	75471	1	1,230
+Hopkins County	Saltillo	STANDARD	820	75478	1	820
+Hopkins County	Sulphur Bluff	STANDARD	320	75481	1	320
+Hopkins County	Sulphur Springs	PO BOX	1,115	75483	1	22,895
+		STANDARD	21,780	75482	1	
+Houston County	Crockett	STANDARD	9,050	75835	1	9,050
+Houston County	Grapeland	STANDARD	4,290	75844	1	4,290
+Houston County	Kennard	STANDARD	1,220	75847	1	1,220
+Houston County	Latexo	PO BOX	417	75849	1	417
+Houston County	Lovelady	STANDARD	2,080	75851	1	2,080
+Houston County	Ratcliff	PO BOX	216	75858	1	216
+Howard County	Big Spring	PO BOX	1,787	79721	1	26,867
+		STANDARD	25,080	79720	1	
+Howard County	Coahoma	STANDARD	1,360	79511	1	1,360
+Howard County	Forsan	PO BOX	256	79733	1	256
+Howard County	Knott	STANDARD	249	79748	1	249
+Hudspeth County	Dell City	PO BOX	604	79837	1	604
+Hudspeth County	Fort Hancock	STANDARD	1,560	79839	1	1,560
+Hudspeth County	Salt Flat	STANDARD	105	79847	1	105
+Hudspeth County	Sierra Blanca	PO BOX	521	79851	1	521
+Hunt County	Caddo Mills	STANDARD	6,030	75135	1	6,030
+Hunt County	Campbell	STANDARD	2,470	75422	1	2,470
+Hunt County	Celeste	STANDARD	2,390	75423	1	2,390
+Hunt County	Commerce	PO BOX	999	75429	1	7,569
+		STANDARD	6,570	75428	1	
+Hunt County	Greenville	PO BOX	1,706	75403	2	32,456
+		STANDARD	30,750	75401	2	
+Hunt County	Lone Oak	STANDARD	2,930	75453	1	2,930
+Hunt County	Merit	PO BOX	353	75458	1	353
+Hunt County	Quinlan	STANDARD	12,340	75474	1	12,340
+Hunt County	Wolfe City	STANDARD	2,730	75496	1	2,730
+Hutchinson County	Borger	PO BOX	1,164	79008	1	13,754
+		STANDARD	12,590	79007	1	
+Hutchinson County	Fritch	STANDARD	4,250	79036	1	4,250
+Hutchinson County	Sanford	PO BOX	361	79078	1	361
+Hutchinson County	Stinnett	STANDARD	2,050	79083	1	2,050
+Irion County	Barnhart	STANDARD	133	76930	1	133
+Irion County	Mertzon	STANDARD	1,250	76941	1	1,250
+Jack County	Bryson	STANDARD	670	76427	1	670
+Jack County	Jacksboro	STANDARD	4,710	76458	1	4,710
+Jack County	Jermyn	STANDARD	144	76459	1	144
+Jack County	Perrin	STANDARD	1,060	76486	1	1,060
+Jackson County	Edna	STANDARD	7,900	77957	1	7,900
+Jackson County	Francitas	PO BOX	112	77961	1	112
+Jackson County	Ganado	STANDARD	3,730	77962	1	3,730
+Jackson County	La Salle	PO BOX	126	77969	1	126
+Jackson County	La Ward	PO BOX	327	77970	1	327
+Jackson County	Lolita	STANDARD	930	77971	1	930
+Jackson County	Vanderbilt	PO BOX	537	77991	1	537
+Jasper County	Brookeland	STANDARD	1,910	75931	1	1,910
+Jasper County	Buna	STANDARD	7,720	77612	1	7,720
+Jasper County	Evadale	PO BOX	1,400	77615	1	1,400
+Jasper County	Jasper	STANDARD	13,320	75951	1	13,320
+Jasper County	Kirbyville	STANDARD	6,280	75956	1	6,280
+Jeff Davis County	Fort Davis	STANDARD	1,680	79734	1	1,680
+Jeff Davis County	Valentine	STANDARD	136	79854	1	136
+Jefferson County	Beaumont	PO BOX	3,628	77704	6	116,898
+		STANDARD	113,270	77701	8	
+Jefferson County	China	PO BOX	1,513	77613	1	1,513
+Jefferson County	Groves	STANDARD	15,400	77619	1	15,400
+Jefferson County	Hamshire	STANDARD	1,540	77622	1	1,540
+Jefferson County	Nederland	STANDARD	21,130	77627	1	21,130
+Jefferson County	Nome	PO BOX	726	77629	1	726
+Jefferson County	Port Arthur	PO BOX	975	77641	2	50,505
+		STANDARD	49,530	77640	2	
+Jefferson County	Port Neches	STANDARD	12,400	77651	1	12,400
+Jefferson County	Sabine Pass	STANDARD	320	77655	1	320
+Jim Hogg County	Guerra	STANDARD	0	78360	1	0
+Jim Hogg County	Hebbronville	STANDARD	4,510	78361	1	4,510
+Jim Wells County	Alice	PO BOX	2,906	78333	1	26,926
+		STANDARD	24,020	78332	1	
+Jim Wells County	Ben Bolt	PO BOX	538	78342	1	538
+Jim Wells County	Orange Grove	STANDARD	5,350	78372	1	5,350
+Jim Wells County	Premont	STANDARD	2,840	78375	1	2,840
+Jim Wells County	Sandia	STANDARD	3,220	78383	1	3,220
+Johnson County	Alvarado	STANDARD	19,540	76009	1	19,540
+Johnson County	Burleson	PO BOX	1,581	76097	1	63,601
+		STANDARD	62,020	76028	1	
+Johnson County	Cleburne	STANDARD	38,890	76031	2	38,890
+Johnson County	Godley	STANDARD	3,770	76044	1	3,770
+Johnson County	Grandview	STANDARD	5,640	76050	1	5,640
+Johnson County	Joshua	STANDARD	16,780	76058	1	16,780
+Johnson County	Keene	STANDARD	4,200	76059	1	4,200
+Johnson County	Lillian	PO BOX	530	76061	1	530
+Johnson County	Rio Vista	STANDARD	2,100	76093	1	2,100
+Johnson County	Venus	STANDARD	7,530	76084	1	7,530
+Jones County	Anson	STANDARD	2,980	79501	1	2,980
+Jones County	Avoca	STANDARD	177	79503	1	177
+Jones County	Hamlin	STANDARD	2,010	79520	1	2,010
+Jones County	Hawley	STANDARD	2,730	79525	1	2,730
+Jones County	Lueders	STANDARD	520	79533	1	520
+Jones County	Stamford	STANDARD	2,840	79553	1	2,840
+Karnes County	Ecleto	STANDARD	0	78111	1	0
+Karnes County	Falls City	STANDARD	2,180	78113	1	2,180
+Karnes County	Gillett	STANDARD	320	78116	1	320
+Karnes County	Hobson	STANDARD	510	78117	1	510
+Karnes County	Karnes City	STANDARD	3,930	78118	1	3,930
+Karnes County	Kenedy	STANDARD	4,510	78119	1	4,510
+Karnes County	Panna Maria	PO BOX	22	78144	1	22
+Karnes County	Runge	STANDARD	1,320	78151	1	1,320
+Kaufman County	Crandall	STANDARD	5,260	75114	1	5,260
+Kaufman County	Elmo	PO BOX	246	75118	1	246
+Kaufman County	Forney	STANDARD	40,870	75126	1	40,870
+Kaufman County	Kaufman	STANDARD	18,090	75142	1	18,090
+Kaufman County	Mabank	STANDARD	6,260	75147	1	6,260
+Kaufman County	Rosser	PO BOX	369	75157	1	369
+Kaufman County	Scurry	STANDARD	4,250	75158	1	4,250
+Kaufman County	Terrell	STANDARD	27,830	75160	2	27,830
+Kendall County	Bergheim	STANDARD	560	78004	1	560
+Kendall County	Boerne	STANDARD	31,860	78006	1	31,860
+Kendall County	Comfort	STANDARD	5,370	78013	1	5,370
+Kendall County	Kendalia	STANDARD	400	78027	1	400
+Kendall County	Waring	PO BOX	192	78074	1	192
+Kenedy County	Armstrong	PO BOX	60	78338	1	60
+Kenedy County	Sarita	PO BOX	279	78385	1	279
+Kent County	Girard	STANDARD	111	79518	1	111
+Kent County	Jayton	STANDARD	470	79528	1	470
+Kerr County	Center Point	STANDARD	2,800	78010	1	2,800
+Kerr County	Hunt	STANDARD	1,390	78024	1	1,390
+Kerr County	Ingram	STANDARD	4,490	78025	1	4,490
+Kerr County	Kerrville	PO BOX	2,636	78029	1	34,916
+		STANDARD	32,280	78028	1	
+Kerr County	Mountain Home	STANDARD	990	78058	1	990
+Kimble County	Junction	STANDARD	3,160	76849	1	3,160
+Kimble County	London	STANDARD	250	76854	1	250
+Kimble County	Roosevelt	STANDARD	64	76874	1	64
+Kimble County	Telegraph	STANDARD	18	76883	1	18
+King County	Guthrie	PO BOX	236	79236	1	236
+Kinney County	Brackettville	STANDARD	2,670	78832	1	2,670
+Kleberg County	Kingsville	PO BOX	1,900	78364	1	24,760
+		STANDARD	22,860	78363	1	
+Kleberg County	Riviera	STANDARD	1,490	78379	1	1,490
+Knox County	Benjamin	STANDARD	250	79505	1	250
+Knox County	Goree	STANDARD	260	76363	1	260
+Knox County	Knox City	STANDARD	1,150	79529	1	1,150
+Knox County	Munday	STANDARD	1,520	76371	1	1,520
+La Salle County	Artesia Wells	PO BOX	15	78001	1	15
+La Salle County	Cotulla	STANDARD	4,300	78014	1	4,300
+La Salle County	Encinal	PO BOX	882	78019	1	882
+La Salle County	Fowlerton	STANDARD	116	78021	1	116
+Lamar County	Arthur City	STANDARD	830	75411	1	830
+Lamar County	Blossom	STANDARD	2,690	75416	1	2,690
+Lamar County	Brookston	STANDARD	920	75421	1	920
+Lamar County	Chicota	PO BOX	137	75425	1	137
+Lamar County	Cunningham	PO BOX	92	75434	1	92
+Lamar County	Deport	STANDARD	840	75435	1	840
+Lamar County	Paris	PO BOX	1,348	75461	1	29,768
+		STANDARD	28,420	75460	2	
+Lamar County	Pattonville	STANDARD	830	75468	1	830
+Lamar County	Petty	STANDARD	208	75470	1	208
+Lamar County	Powderly	STANDARD	3,180	75473	1	3,180
+Lamar County	Roxton	STANDARD	720	75477	1	720
+Lamar County	Sumner	STANDARD	2,300	75486	1	2,300
+Lamb County	Amherst	STANDARD	830	79312	1	830
+Lamb County	Earth	STANDARD	1,210	79031	1	1,210
+Lamb County	Fieldton	STANDARD	39	79326	1	39
+Lamb County	Littlefield	STANDARD	5,970	79339	1	5,970
+Lamb County	Olton	STANDARD	2,250	79064	1	2,250
+Lamb County	Spade	PO BOX	134	79369	1	134
+Lamb County	Springlake	STANDARD	260	79082	1	260
+Lamb County	Sudan	STANDARD	1,190	79371	1	1,190
+Lampasas County	Kempner	STANDARD	7,710	76539	1	7,710
+Lampasas County	Lampasas	STANDARD	10,690	76550	1	10,690
+Lampasas County	Lometa	STANDARD	1,290	76853	1	1,290
+Lavaca County	Hallettsville	STANDARD	7,170	77964	1	7,170
+Lavaca County	Moulton	STANDARD	1,650	77975	1	1,650
+Lavaca County	Shiner	STANDARD	3,970	77984	1	3,970
+Lavaca County	Sublime	PO BOX	49	77986	1	49
+Lavaca County	Sweet Home	PO BOX	213	77987	1	213
+Lavaca County	Yoakum	STANDARD	8,820	77995	1	8,820
+Lee County	Dime Box	STANDARD	920	77853	1	920
+Lee County	Giddings	STANDARD	8,890	78942	1	8,890
+Lee County	Ledbetter	STANDARD	940	78946	1	940
+Lee County	Lexington	STANDARD	4,050	78947	1	4,050
+Lee County	Lincoln	STANDARD	760	78948	1	760
+Leon County	Buffalo	STANDARD	4,760	75831	1	4,760
+Leon County	Centerville	STANDARD	2,990	75833	1	2,990
+Leon County	Concord	PO BOX	24	77850	1	24
+Leon County	Flynn	PO BOX	329	77855	1	329
+Leon County	Jewett	STANDARD	2,310	75846	1	2,310
+Leon County	Leona	STANDARD	370	75850	1	370
+Leon County	Marquez	STANDARD	1,440	77865	1	1,440
+Leon County	Normangee	STANDARD	3,090	77871	1	3,090
+Leon County	Oakwood	STANDARD	1,960	75855	1	1,960
+Liberty County	Cleveland	STANDARD	17,260	77327	1	17,260
+Liberty County	Daisetta	PO BOX	972	77533	1	972
+Liberty County	Dayton	STANDARD	27,420	77535	1	27,420
+Liberty County	Devers	STANDARD	840	77538	1	840
+Liberty County	Hardin	PO BOX	1,780	77561	1	1,780
+Liberty County	Hull	STANDARD	1,410	77564	1	1,410
+Liberty County	Liberty	STANDARD	13,040	77575	1	13,040
+Liberty County	Raywood	PO BOX	677	77582	1	677
+Liberty County	Romayor	PO BOX	372	77368	1	372
+Liberty County	Rye	PO BOX	1,053	77369	1	1,053
+Limestone County	Coolidge	STANDARD	1,180	76635	1	1,180
+Limestone County	Groesbeck	STANDARD	5,450	76642	1	5,450
+Limestone County	Kosse	STANDARD	950	76653	1	950
+Limestone County	Mexia	STANDARD	10,120	76667	1	10,120
+Limestone County	Prairie Hill	STANDARD	184	76678	1	184
+Limestone County	Tehuacana	PO BOX	293	76686	1	293
+Limestone County	Thornton	STANDARD	1,220	76687	1	1,220
+Lipscomb County	Booker	STANDARD	1,790	79005	1	1,790
+Lipscomb County	Darrouzett	PO BOX	380	79024	1	380
+Lipscomb County	Follett	STANDARD	690	79034	1	690
+Lipscomb County	Higgins	STANDARD	480	79046	1	480
+Lipscomb County	Lipscomb	STANDARD	49	79056	1	49
+Live Oak County	Dinero	PO BOX	106	78350	1	106
+Live Oak County	George West	STANDARD	4,510	78022	1	4,510
+Live Oak County	Oakville	STANDARD	49	78060	1	49
+Live Oak County	Three Rivers	STANDARD	3,200	78071	1	3,200
+Live Oak County	Whitsett	STANDARD	132	78075	1	132
+Llano County	Bluffton	STANDARD	166	78607	1	166
+Llano County	Buchanan Dam	STANDARD	1,530	78609	1	1,530
+Llano County	Castell	STANDARD	76	76831	1	76
+Llano County	Horseshoe Bay	STANDARD	5,130	78657	1	5,130
+Llano County	Kingsland	STANDARD	5,970	78639	1	5,970
+Llano County	Llano	STANDARD	5,430	78643	1	5,430
+Llano County	Tow	STANDARD	660	78672	1	660
+Llano County	Valley Spring	STANDARD	152	76885	1	152
+Loving County	Mentone	PO BOX	49	79754	1	49
+Lubbock County	Idalou	STANDARD	3,100	79329	1	3,100
+Lubbock County	Lubbock	PO BOX	5,396	79408	7	219,085
+		STANDARD	213,689	79401	17	
+		UNIQUE	0	79430	3	
+Lubbock County	New Deal	PO BOX	610	79350	1	610
+Lubbock County	Ransom Canyon	STANDARD	1,000	79366	1	1,000
+Lubbock County	Shallowater	STANDARD	5,420	79363	1	5,420
+Lubbock County	Slaton	STANDARD	6,750	79364	1	6,750
+Lubbock County	Wolfforth	STANDARD	6,850	79382	1	6,850
+Lynn County	New Home	PO BOX	371	79383	1	371
+Lynn County	Odonnell	STANDARD	1,110	79351	1	1,110
+Lynn County	Tahoka	STANDARD	2,680	79373	1	2,680
+Lynn County	Wilson	STANDARD	1,060	79381	1	1,060
+Madison County	Madisonville	STANDARD	7,180	77864	1	7,180
+Madison County	Midway	STANDARD	1,440	75852	1	1,440
+Madison County	North Zulch	STANDARD	1,650	77872	1	1,650
+Marion County	Avinger	STANDARD	1,980	75630	1	1,980
+Marion County	Jefferson	STANDARD	6,520	75657	1	6,520
+Marion County	Lodi	PO BOX	148	75564	1	148
+Martin County	Ackerly	STANDARD	640	79713	1	640
+Martin County	Lenorah	STANDARD	270	79749	1	270
+Martin County	Stanton	STANDARD	4,460	79782	1	4,460
+Martin County	Tarzan	STANDARD	196	79783	1	196
+Mason County	Art	STANDARD	99	76820	1	99
+Mason County	Fredonia	STANDARD	146	76842	1	146
+Mason County	Mason	STANDARD	3,120	76856	1	3,120
+Mason County	Pontotoc	STANDARD	134	76869	1	134
+Matagorda County	Bay City	PO BOX	1,811	77404	1	21,071
+		STANDARD	19,260	77414	1	
+Matagorda County	Blessing	PO BOX	1,375	77419	1	1,375
+Matagorda County	Cedar Lane	PO BOX	372	77415	1	372
+Matagorda County	Collegeport	PO BOX	58	77428	1	58
+Matagorda County	Elmaton	PO BOX	141	77440	1	141
+Matagorda County	Markham	PO BOX	1,236	77456	1	1,236
+Matagorda County	Matagorda	PO BOX	457	77457	1	457
+Matagorda County	Midfield	PO BOX	353	77458	1	353
+Matagorda County	Palacios	STANDARD	6,650	77465	1	6,650
+Matagorda County	Pledger	STANDARD	200	77468	1	200
+Matagorda County	Van Vleck	STANDARD	2,210	77482	1	2,210
+Matagorda County	Wadsworth	STANDARD	424	77483	1	424
+Maverick County	Eagle Pass	PO BOX	11,336	78853	1	60,646
+		STANDARD	49,310	78852	1	
+Maverick County	El Indio	PO BOX	245	78860	1	245
+Maverick County	Quemado	STANDARD	810	78877	1	810
+McCulloch County	Brady	STANDARD	6,300	76825	1	6,300
+McCulloch County	Doole	STANDARD	45	76836	1	45
+McCulloch County	Lohn	STANDARD	200	76852	1	200
+McCulloch County	Melvin	STANDARD	230	76858	1	230
+McCulloch County	Rochelle	STANDARD	540	76872	1	540
+McCulloch County	Voca	STANDARD	97	76887	1	97
+McLennan County	Axtell	STANDARD	2,130	76624	1	2,130
+McLennan County	Bruceville	STANDARD	1,550	76630	1	1,550
+McLennan County	China Spring	STANDARD	4,970	76633	1	4,970
+McLennan County	Crawford	STANDARD	2,760	76638	1	2,760
+McLennan County	Eddy	STANDARD	2,600	76524	1	2,600
+McLennan County	Elm Mott	STANDARD	2,630	76640	1	2,630
+McLennan County	Hewitt	STANDARD	13,750	76643	1	13,750
+McLennan County	Leroy	PO BOX	217	76654	1	217
+McLennan County	Lorena	STANDARD	7,820	76655	1	7,820
+McLennan County	Mart	STANDARD	2,660	76664	1	2,660
+McLennan County	Mc Gregor	STANDARD	9,490	76657	1	9,490
+McLennan County	Moody	STANDARD	4,600	76557	1	4,600
+McLennan County	Riesel	STANDARD	2,540	76682	1	2,540
+McLennan County	Ross	PO BOX	259	76684	1	259
+McLennan County	Waco	PO BOX	3,236	76702	5	126,590
+		STANDARD	123,354	76701	9	
+		UNIQUE	0	76797	2	
+McLennan County	West	STANDARD	5,730	76691	1	5,730
+McLennan County	Woodway	STANDARD	23,420	76712	1	23,420
+McMullen County	Calliham	STANDARD	120	78007	1	120
+McMullen County	Tilden	STANDARD	740	78072	1	740
+Medina County	Castroville	STANDARD	7,340	78009	1	7,340
+Medina County	D Hanis	STANDARD	1,100	78850	1	1,100
+Medina County	Devine	STANDARD	9,000	78016	1	9,000
+Medina County	Hondo	STANDARD	10,610	78861	1	10,610
+Medina County	La Coste	STANDARD	1,570	78039	1	1,570
+Medina County	Mico	STANDARD	1,790	78056	1	1,790
+Medina County	Natalia	STANDARD	4,630	78059	1	4,630
+Medina County	Rio Medina	STANDARD	620	78066	1	620
+Medina County	Yancey	STANDARD	540	78886	1	540
+Menard County	Fort Mc Kavett	STANDARD	107	76841	1	107
+Menard County	Hext	STANDARD	61	76848	1	61
+Menard County	Menard	STANDARD	1,560	76859	1	1,560
+Midland County	Midland	PO BOX	6,702	79702	6	147,952
+		STANDARD	141,250	79701	5	
+Milam County	Buckholts	STANDARD	1,100	76518	1	1,100
+Milam County	Cameron	STANDARD	6,940	76520	1	6,940
+Milam County	Davilla	PO BOX	176	76523	1	176
+Milam County	Gause	PO BOX	780	77857	1	780
+Milam County	Milano	STANDARD	1,320	76556	1	1,320
+Milam County	Rockdale	STANDARD	7,720	76567	1	7,720
+Milam County	Thorndale	STANDARD	2,800	76577	1	2,800
+Mills County	Goldthwaite	STANDARD	2,990	76844	1	2,990
+Mills County	Mullin	STANDARD	590	76864	1	590
+Mills County	Priddy	STANDARD	257	76870	1	257
+Mills County	Star	PO BOX	84	76880	1	84
+Mitchell County	Colorado City	STANDARD	5,110	79512	1	5,110
+Mitchell County	Loraine	STANDARD	800	79532	1	800
+Mitchell County	Westbrook	STANDARD	390	79565	1	390
+Montague County	Bowie	STANDARD	8,490	76230	1	8,490
+Montague County	Forestburg	STANDARD	900	76239	1	900
+Montague County	Montague	STANDARD	650	76251	1	650
+Montague County	Nocona	STANDARD	4,500	76255	1	4,500
+Montague County	Ringgold	STANDARD	258	76261	1	258
+Montague County	Saint Jo	STANDARD	1,440	76265	1	1,440
+Montague County	Sunset	STANDARD	1,710	76270	1	1,710
+Montgomery County	Conroe	PO BOX	2,438	77305	1	135,458
+		STANDARD	133,020	77301	7	
+Montgomery County	Dobbin	PO BOX	473	77333	1	473
+Montgomery County	Magnolia	PO BOX	1,182	77353	1	59,562
+		STANDARD	58,380	77354	2	
+Montgomery County	Montgomery	STANDARD	47,240	77316	2	47,240
+Montgomery County	New Caney	STANDARD	21,970	77357	1	21,970
+Montgomery County	Pinehurst	STANDARD	5,050	77362	1	5,050
+Montgomery County	Porter	STANDARD	32,230	77365	1	32,230
+Montgomery County	Splendora	STANDARD	10,890	77372	1	10,890
+Montgomery County	Spring	STANDARD	139,530	77380	4	139,530
+Montgomery County	Willis	STANDARD	29,670	77318	2	29,670
+Moore County	Amarillo	PO BOX	1,174	79105	1	1,174
+Moore County	Cactus	PO BOX	3,790	79013	1	3,790
+Moore County	Dumas	STANDARD	16,280	79029	1	16,280
+Moore County	Sunray	STANDARD	1,990	79086	1	1,990
+Morris County	Cason	PO BOX	371	75636	1	371
+Morris County	Daingerfield	STANDARD	4,580	75638	1	4,580
+Morris County	Lone Star	STANDARD	1,610	75668	1	1,610
+Morris County	Naples	STANDARD	2,340	75568	1	2,340
+Morris County	Omaha	STANDARD	2,380	75571	1	2,380
+Motley County	Flomot	STANDARD	71	79234	1	71
+Motley County	Matador	STANDARD	630	79244	1	630
+Motley County	Roaring Springs	STANDARD	200	79256	1	200
+Nacogdoches County	Chireno	STANDARD	970	75937	1	970
+Nacogdoches County	Cushing	STANDARD	2,080	75760	1	2,080
+Nacogdoches County	Douglass	STANDARD	1,260	75943	1	1,260
+Nacogdoches County	Etoile	STANDARD	1,040	75944	1	1,040
+Nacogdoches County	Garrison	STANDARD	2,880	75946	1	2,880
+Nacogdoches County	Martinsville	PO BOX	259	75958	1	259
+Nacogdoches County	Nacogdoches	PO BOX	2,456	75963	1	43,735
+		STANDARD	40,910	75961	3	
+		UNIQUE	369	75962	1	
+Nacogdoches County	Sacul	PO BOX	111	75788	1	111
+Nacogdoches County	Woden	PO BOX	372	75978	1	372
+Navarro County	Barry	STANDARD	1,210	75102	1	1,210
+Navarro County	Blooming Grove	STANDARD	1,480	76626	1	1,480
+Navarro County	Chatfield	STANDARD	280	75105	1	280
+Navarro County	Corsicana	PO BOX	1,432	75151	1	30,802
+		STANDARD	29,370	75109	2	
+Navarro County	Dawson	STANDARD	1,190	76639	1	1,190
+Navarro County	Frost	STANDARD	1,500	76641	1	1,500
+Navarro County	Kerens	STANDARD	2,690	75144	1	2,690
+Navarro County	Powell	STANDARD	610	75153	1	610
+Navarro County	Purdon	STANDARD	1,200	76679	1	1,200
+Navarro County	Rice	STANDARD	2,510	75155	1	2,510
+Navarro County	Richland	STANDARD	410	76681	1	410
+Newton County	Bon Wier	STANDARD	1,040	75928	1	1,040
+Newton County	Burkeville	STANDARD	1,110	75932	1	1,110
+Newton County	Call	STANDARD	1,360	75933	1	1,360
+Newton County	Deweyville	PO BOX	1,360	77614	1	1,360
+Newton County	Newton	STANDARD	3,620	75966	1	3,620
+Newton County	Wiergate	STANDARD	510	75977	1	510
+Nolan County	Blackwell	STANDARD	510	79506	1	510
+Nolan County	Maryneal	STANDARD	142	79535	1	142
+Nolan County	Nolan	STANDARD	83	79537	1	83
+Nolan County	Roscoe	STANDARD	1,700	79545	1	1,700
+Nolan County	Sweetwater	STANDARD	11,170	79556	1	11,170
+Nueces County	Agua Dulce	STANDARD	930	78330	1	930
+Nueces County	Aransas Pass	PO BOX	2,158	78335	1	2,158
+Nueces County	Banquete	PO BOX	1,211	78339	1	1,211
+Nueces County	Bishop	STANDARD	3,940	78343	1	3,940
+Nueces County	Chapman Ranch	PO BOX	119	78347	1	119
+Nueces County	Corpus Christi	PO BOX	8,879	78403	12	277,906
+		STANDARD	269,027	78401	22	
+Nueces County	Driscoll	PO BOX	883	78351	1	883
+Nueces County	Port Aransas	STANDARD	3,530	78373	1	3,530
+Nueces County	Robstown	STANDARD	19,730	78380	1	19,730
+Ochiltree County	Farnsworth	PO BOX	106	79033	1	106
+Ochiltree County	Perryton	STANDARD	11,080	79070	1	11,080
+Ochiltree County	Waka	PO BOX	69	79093	1	69
+Oldham County	Adrian	STANDARD	240	79001	1	240
+Oldham County	Boys Ranch	PO BOX	430	79010	1	430
+Oldham County	Vega	STANDARD	1,090	79092	1	1,090
+Oldham County	Wildorado	STANDARD	410	79098	1	410
+Orange County	Bridge City	STANDARD	8,980	77611	1	8,980
+Orange County	Mauriceville	PO BOX	1,664	77626	1	1,664
+Orange County	Orange	PO BOX	927	77631	1	43,717
+		STANDARD	42,790	77630	2	
+Orange County	Orangefield	PO BOX	716	77639	1	716
+Orange County	Vidor	PO BOX	1,595	77670	1	24,215
+		STANDARD	22,620	77662	1	
+Palo Pinto County	Gordon	STANDARD	940	76453	1	940
+Palo Pinto County	Graford	STANDARD	1,850	76449	1	1,850
+Palo Pinto County	Mineral Wells	STANDARD	16,750	76067	1	16,750
+Palo Pinto County	Mingus	STANDARD	380	76463	1	380
+Palo Pinto County	Palo Pinto	STANDARD	790	76484	1	790
+Palo Pinto County	Santo	STANDARD	1,320	76472	1	1,320
+Palo Pinto County	Strawn	STANDARD	890	76475	1	890
+Panola County	Beckville	STANDARD	2,500	75631	1	2,500
+Panola County	Carthage	STANDARD	13,170	75633	1	13,170
+Panola County	Clayton	PO BOX	123	75637	1	123
+Panola County	De Berry	STANDARD	2,400	75639	1	2,400
+Panola County	Gary	STANDARD	1,740	75643	1	1,740
+Panola County	Long Branch	STANDARD	520	75669	1	520
+Panola County	Panola	PO BOX	313	75685	1	313
+Parker County	Aledo	STANDARD	15,870	76008	1	15,870
+Parker County	Cresson	STANDARD	1,530	76035	1	1,530
+Parker County	Dennis	PO BOX	285	76439	1	285
+Parker County	Millsap	STANDARD	2,670	76066	1	2,670
+Parker County	Mineral Wells	PO BOX	1,263	76068	1	1,263
+Parker County	Peaster	PO BOX	325	76485	1	325
+Parker County	Poolville	STANDARD	2,150	76487	1	2,150
+Parker County	Springtown	STANDARD	16,970	76082	1	16,970
+Parker County	Weatherford	STANDARD	65,570	76085	4	65,570
+Parker County	Whitt	STANDARD	180	76490	1	180
+Parmer County	Bovina	STANDARD	2,160	79009	1	2,160
+Parmer County	Farwell	STANDARD	1,990	79325	1	1,990
+Parmer County	Friona	STANDARD	5,600	79035	1	5,600
+Parmer County	Lazbuddie	PO BOX	220	79053	1	220
+Pecos County	Coyanosa	PO BOX	218	79730	1	218
+Pecos County	Fort Stockton	STANDARD	10,960	79735	1	10,960
+Pecos County	Imperial	PO BOX	251	79743	1	251
+Pecos County	Iraan	PO BOX	1,404	79744	1	1,404
+Pecos County	Sheffield	PO BOX	346	79781	1	346
+Polk County	Ace	PO BOX	374	77326	1	374
+Polk County	Camden	PO BOX	239	75934	1	239
+Polk County	Corrigan	STANDARD	3,450	75939	1	3,450
+Polk County	Dallardsville	PO BOX	119	77332	1	119
+Polk County	Goodrich	STANDARD	1,750	77335	1	1,750
+Polk County	Leggett	PO BOX	542	77350	1	542
+Polk County	Livingston	STANDARD	23,230	77351	1	36,186
+		UNIQUE	12,956	77399	1	
+Polk County	Moscow	STANDARD	800	75960	1	800
+Polk County	Onalaska	STANDARD	4,210	77360	1	4,210
+Potter County	Amarillo	PO BOX	6,204	79114	6	107,924
+		STANDARD	101,720	79101	9	
+		UNIQUE	0	79166	6	
+Potter County	Bushland	PO BOX	1,190	79012	1	1,190
+Potter County	Masterson	STANDARD	21	79058	1	21
+Presidio County	Marfa	STANDARD	2,190	79843	1	2,190
+Presidio County	Presidio	STANDARD	6,937	79845	1	6,937
+Presidio County	Redford	PO BOX	77	79846	1	77
+Rains County	Emory	STANDARD	5,300	75440	1	5,300
+Rains County	Point	STANDARD	2,830	75472	1	2,830
+Randall County	Amarillo	STANDARD	96,910	79109	5	96,910
+Randall County	Canyon	STANDARD	16,410	79015	1	16,575
+		UNIQUE	165	79016	1	
+Randall County	Umbarger	PO BOX	147	79091	1	147
+Reagan County	Big Lake	STANDARD	3,790	76932	1	3,790
+Real County	Camp Wood	STANDARD	1,120	78833	1	1,120
+Real County	Leakey	STANDARD	1,490	78873	1	1,490
+Real County	Rio Frio	STANDARD	190	78879	1	190
+Red River County	Annona	STANDARD	660	75550	1	660
+Red River County	Avery	STANDARD	1,410	75554	1	1,410
+Red River County	Bagwell	STANDARD	550	75412	1	550
+Red River County	Bogata	STANDARD	1,990	75417	1	1,990
+Red River County	Clarksville	STANDARD	4,060	75426	1	4,060
+Red River County	Detroit	STANDARD	1,760	75436	1	1,760
+Reeves County	Balmorhea	STANDARD	580	79718	1	580
+Reeves County	Orla	PO BOX	38	79770	1	38
+Reeves County	Pecos	STANDARD	9,700	79772	1	9,700
+Reeves County	Saragosa	PO BOX	168	79780	1	168
+Reeves County	Toyah	PO BOX	58	79785	1	58
+Reeves County	Toyahvale	PO BOX	29	79786	1	29
+Refugio County	Austwell	PO BOX	212	77950	1	212
+Refugio County	Bayside	STANDARD	370	78340	1	370
+Refugio County	Refugio	STANDARD	3,390	78377	1	3,390
+Refugio County	Tivoli	STANDARD	610	77990	1	610
+Refugio County	Woodsboro	STANDARD	2,230	78393	1	2,230
+Roberts County	Miami	STANDARD	740	79059	1	740
+Robertson County	Bremond	STANDARD	1,720	76629	1	1,720
+Robertson County	Calvert	STANDARD	1,190	77837	1	1,190
+Robertson County	Franklin	STANDARD	4,130	77856	1	4,130
+Robertson County	Hearne	STANDARD	6,550	77859	1	6,550
+Robertson County	Mumford	PO BOX	139	77867	1	139
+Robertson County	New Baden	PO BOX	274	77870	1	274
+Robertson County	Wheelock	PO BOX	307	77882	1	307
+Rockwall County	Fate	PO BOX	706	75132	1	706
+Rockwall County	Rockwall	STANDARD	62,230	75032	2	62,230
+Rockwall County	Royse City	STANDARD	25,040	75189	1	25,040
+Runnels County	Ballinger	STANDARD	4,310	76821	1	4,310
+Runnels County	Miles	STANDARD	2,000	76861	1	2,000
+Runnels County	Norton	STANDARD	122	76865	1	122
+Runnels County	Rowena	STANDARD	540	76875	1	540
+Runnels County	Winters	STANDARD	2,790	79567	1	2,790
+Rusk County	Henderson	PO BOX	1,660	75653	1	23,430
+		STANDARD	21,770	75652	2	
+Rusk County	Joinerville	PO BOX	271	75658	1	271
+Rusk County	Laird Hill	PO BOX	591	75666	1	591
+Rusk County	Laneville	STANDARD	940	75667	1	940
+Rusk County	Minden	PO BOX	115	75680	1	115
+Rusk County	Mount Enterprise	STANDARD	2,260	75681	1	2,260
+Rusk County	New London	PO BOX	682	75682	1	682
+Rusk County	Overton	STANDARD	5,210	75684	1	5,210
+Rusk County	Price	PO BOX	261	75687	1	261
+Rusk County	Selman City	PO BOX	225	75689	1	225
+Rusk County	Tatum	STANDARD	4,190	75691	1	4,190
+Sabine County	Bronson	STANDARD	1,370	75930	1	1,370
+Sabine County	Hemphill	STANDARD	4,630	75948	1	4,630
+Sabine County	Milam	STANDARD	690	75959	1	690
+Sabine County	Pineland	STANDARD	1,590	75968	1	1,590
+San Augustine County	Broaddus	STANDARD	1,140	75929	1	1,140
+San Augustine County	San Augustine	STANDARD	5,140	75972	1	5,140
+San Jacinto County	Cleveland	STANDARD	14,430	77328	1	14,430
+San Jacinto County	Coldspring	STANDARD	5,340	77331	1	5,340
+San Jacinto County	Oakhurst	STANDARD	640	77359	1	640
+San Jacinto County	Pointblank	STANDARD	1,840	77364	1	1,840
+San Jacinto County	Shepherd	STANDARD	6,420	77371	1	6,420
+San Patricio County	Aransas Pass	STANDARD	9,640	78336	1	9,640
+San Patricio County	Edroy	PO BOX	512	78352	1	512
+San Patricio County	Gregory	PO BOX	2,165	78359	1	2,165
+San Patricio County	Ingleside	STANDARD	9,470	78362	1	9,470
+San Patricio County	Mathis	STANDARD	8,370	78368	1	8,370
+San Patricio County	Odem	STANDARD	4,660	78370	1	4,660
+San Patricio County	Portland	STANDARD	17,560	78374	1	17,560
+San Patricio County	Sinton	STANDARD	8,850	78387	1	8,850
+San Patricio County	Taft	STANDARD	5,510	78390	1	5,510
+San Saba County	Bend	PO BOX	60	76824	1	60
+San Saba County	Cherokee	STANDARD	500	76832	1	500
+San Saba County	Richland Springs	STANDARD	610	76871	1	610
+San Saba County	San Saba	STANDARD	3,580	76877	1	3,580
+Schleicher County	Eldorado	STANDARD	2,620	76936	1	2,620
+Scurry County	Dunn	PO BOX	15	79516	1	15
+Scurry County	Fluvanna	STANDARD	182	79517	1	182
+Scurry County	Hermleigh	STANDARD	910	79526	1	910
+Scurry County	Ira	STANDARD	470	79527	1	470
+Scurry County	Snyder	PO BOX	1,065	79550	1	14,045
+		STANDARD	12,980	79549	1	
+Shackelford County	Albany	STANDARD	2,180	76430	1	2,180
+Shackelford County	Moran	STANDARD	380	76464	1	380
+Shelby County	Center	STANDARD	12,910	75935	1	12,910
+Shelby County	Joaquin	STANDARD	2,950	75954	1	2,950
+Shelby County	Shelbyville	STANDARD	2,050	75973	1	2,050
+Shelby County	Tenaha	STANDARD	2,820	75974	1	2,820
+Shelby County	Timpson	STANDARD	2,960	75975	1	2,960
+Sherman County	Stratford	STANDARD	2,350	79084	1	2,350
+Sherman County	Texhoma	PO BOX	0	73960	1	0
+Smith County	Arp	STANDARD	3,440	75750	1	3,440
+Smith County	Bullard	STANDARD	10,570	75757	1	10,570
+Smith County	Flint	STANDARD	12,440	75762	1	12,440
+Smith County	Lindale	STANDARD	18,080	75771	1	18,080
+Smith County	Troup	STANDARD	6,740	75789	1	6,740
+Smith County	Tyler	PO BOX	5,184	75710	4	135,394
+		STANDARD	130,210	75701	9	
+		UNIQUE	0	75798	2	
+Smith County	Whitehouse	STANDARD	12,370	75791	1	12,370
+Smith County	Winona	STANDARD	2,930	75792	1	2,930
+Somervell County	Glen Rose	STANDARD	6,390	76043	1	6,390
+Somervell County	Nemo	STANDARD	410	76070	1	410
+Somervell County	Rainbow	STANDARD	520	76077	1	520
+Starr County	Delmita	STANDARD	280	78536	1	280
+Starr County	Falcon Heights	PO BOX	674	78545	1	674
+Starr County	Garciasville	PO BOX	2,899	78547	1	2,899
+Starr County	Grulla	PO BOX	2,881	78548	1	2,881
+Starr County	Rio Grande City	STANDARD	34,350	78582	1	34,350
+Starr County	Roma	STANDARD	17,920	78584	1	17,920
+Starr County	Salineno	PO BOX	241	78585	1	241
+Starr County	San Isidro	STANDARD	350	78588	1	350
+Starr County	Santa Elena	STANDARD	250	78591	1	250
+Stephens County	Breckenridge	STANDARD	6,980	76424	1	6,980
+Stephens County	Caddo	STANDARD	176	76429	1	176
+Sterling County	Sterling City	STANDARD	1,230	76951	1	1,230
+Stonewall County	Aspermont	STANDARD	1,060	79502	1	1,060
+Stonewall County	Old Glory	STANDARD	109	79540	1	109
+Sutton County	Sonora	STANDARD	3,880	76950	1	3,880
+Swisher County	Happy	STANDARD	970	79042	1	970
+Swisher County	Kress	STANDARD	1,040	79052	1	1,040
+Swisher County	Tulia	STANDARD	4,430	79088	1	4,430
+Tarrant County	Arlington	PO BOX	5,223	76003	6	366,508
+		STANDARD	361,100	76001	12	
+		UNIQUE	185	76019	1	
+Tarrant County	Azle	PO BOX	1,418	76098	1	25,868
+		STANDARD	24,450	76020	1	
+Tarrant County	Bedford	PO BOX	1,107	76095	1	46,827
+		STANDARD	45,720	76021	2	
+Tarrant County	Colleyville	STANDARD	24,990	76034	1	24,990
+Tarrant County	Crowley	STANDARD	23,580	76036	1	23,580
+Tarrant County	Dallas	PO BOX	550	75261	1	550
+Tarrant County	Euless	STANDARD	62,230	76039	2	62,230
+Tarrant County	Fort Worth	PO BOX	6,780	76101	11	816,254
+		STANDARD	809,130	76102	32	
+		UNIQUE	344	76122	13	
+Tarrant County	Grand Prairie	STANDARD	11,250	75054	1	11,250
+Tarrant County	Grapevine	PO BOX	1,053	76099	1	48,463
+		STANDARD	47,410	76051	1	
+Tarrant County	Haltom City	STANDARD	29,980	76117	1	29,980
+Tarrant County	Haslet	STANDARD	18,960	76052	1	18,960
+Tarrant County	Hurst	STANDARD	40,540	76053	2	40,540
+Tarrant County	Keller	STANDARD	107,820	76244	2	107,820
+Tarrant County	Kennedale	STANDARD	7,320	76060	1	7,320
+Tarrant County	Mansfield	STANDARD	65,860	76063	1	65,860
+Tarrant County	Naval Air Station/ Jrb	STANDARD	430	76127	1	430
+Tarrant County	North Richland Hills	STANDARD	60,950	76180	2	60,950
+Tarrant County	Southlake	STANDARD	29,990	76092	1	29,990
+Taylor County	Abilene	PO BOX	2,688	79604	2	107,657
+		STANDARD	104,630	79601	5	
+		UNIQUE	339	79697	3	
+Taylor County	Buffalo Gap	STANDARD	1,110	79508	1	1,110
+Taylor County	Dyess Afb	STANDARD	2,750	79607	1	2,750
+Taylor County	Lawn	STANDARD	470	79530	1	470
+Taylor County	Merkel	STANDARD	4,550	79536	1	4,550
+Taylor County	Ovalo	STANDARD	710	79541	1	710
+Taylor County	Trent	STANDARD	590	79561	1	590
+Taylor County	Tuscola	STANDARD	4,330	79562	1	4,330
+Taylor County	Tye	STANDARD	1,120	79563	1	1,120
+Taylor County	Wingate	STANDARD	230	79566	1	230
+Terrell County	Dryden	STANDARD	50	78851	1	50
+Terrell County	Sanderson	PO BOX	729	79848	1	729
+Terry County	Brownfield	STANDARD	9,330	79316	1	9,330
+Terry County	Meadow	STANDARD	880	79345	1	880
+Terry County	Wellman	PO BOX	252	79378	1	252
+Throckmorton County	Throckmorton	STANDARD	870	76483	1	870
+Throckmorton County	Woodson	STANDARD	380	76491	1	380
+Titus County	Cookville	STANDARD	1,320	75558	1	1,320
+Titus County	Mount Pleasant	PO BOX	2,288	75456	1	27,878
+		STANDARD	25,590	75455	1	
+Titus County	Talco	STANDARD	1,180	75487	1	1,180
+Titus County	Winfield	PO BOX	680	75493	1	680
+Tom Green County	Carlsbad	STANDARD	890	76934	1	890
+Tom Green County	Christoval	STANDARD	1,630	76935	1	1,630
+Tom Green County	Eola	STANDARD	250	76937	1	250
+Tom Green County	Goodfellow Afb	STANDARD	795	76908	1	795
+Tom Green County	Knickerbocker	PO BOX	163	76939	1	163
+Tom Green County	Mereta	STANDARD	220	76940	1	220
+Tom Green County	San Angelo	PO BOX	3,040	76902	2	97,160
+		STANDARD	94,010	76901	4	
+		UNIQUE	110	76909	1	
+Tom Green County	Vancourt	STANDARD	132	76955	1	132
+Tom Green County	Veribest	PO BOX	163	76886	1	163
+Tom Green County	Wall	STANDARD	400	76957	1	400
+Tom Green County	Water Valley	PO BOX	333	76958	1	333
+Travis County	Austin	PO BOX	13,540	78708	20	856,228
+		STANDARD	842,232	78701	43	
+		UNIQUE	456	73301	12	
+Travis County	Del Valle	STANDARD	22,050	78617	1	22,050
+Travis County	Leander	STANDARD	10,160	78645	1	10,160
+Travis County	Manchaca	STANDARD	4,260	78652	1	4,260
+Travis County	Manor	STANDARD	19,180	78653	1	19,180
+Travis County	Pflugerville	PO BOX	1,220	78691	1	79,660
+		STANDARD	78,440	78660	1	
+Travis County	Spicewood	STANDARD	9,240	78669	1	9,240
+Trinity County	Apple Springs	STANDARD	900	75926	1	900
+Trinity County	Centralia	STANDARD	0	75834	1	0
+Trinity County	Groveton	STANDARD	2,200	75845	1	2,200
+Trinity County	Pennington	STANDARD	230	75856	1	230
+Trinity County	Trinity	STANDARD	7,810	75862	1	7,810
+Trinity County	Woodlake	PO BOX	142	75865	1	142
+Tyler County	Chester	STANDARD	710	75936	1	710
+Tyler County	Colmesneil	STANDARD	2,120	75938	1	2,120
+Tyler County	Doucette	PO BOX	371	75942	1	371
+Tyler County	Fred	STANDARD	1,090	77616	1	1,090
+Tyler County	Hillister	STANDARD	770	77624	1	770
+Tyler County	Spurger	STANDARD	1,400	77660	1	1,400
+Tyler County	Warren	STANDARD	2,520	77664	1	2,520
+Tyler County	Woodville	STANDARD	6,670	75979	1	6,670
+		UNIQUE	0	75990	1	
+Upshur County	Big Sandy	STANDARD	4,550	75755	1	4,550
+		UNIQUE	0	75797	1	
+Upshur County	Diana	STANDARD	4,330	75640	1	4,330
+Upshur County	Gilmer	STANDARD	18,720	75644	2	18,720
+Upshur County	Ore City	STANDARD	3,210	75683	1	3,210
+Upton County	Mc Camey	STANDARD	2,160	79752	1	2,160
+Upton County	Midkiff	STANDARD	249	79755	1	249
+Upton County	Rankin	PO BOX	803	79778	1	803
+Uvalde County	Concan	STANDARD	430	78838	1	430
+Uvalde County	Knippa	STANDARD	790	78870	1	790
+Uvalde County	Sabinal	STANDARD	2,000	78881	1	2,000
+Uvalde County	Utopia	STANDARD	1,000	78884	1	1,000
+Uvalde County	Uvalde	PO BOX	2,989	78802	1	21,019
+		STANDARD	18,030	78801	1	
+Val Verde County	Comstock	STANDARD	318	78837	1	318
+Val Verde County	Del Rio	PO BOX	3,868	78841	2	47,528
+		STANDARD	43,660	78840	1	
+		UNIQUE	0	78847	1	
+Val Verde County	Langtry	PO BOX	55	78871	1	55
+Val Verde County	Laughlin A F B	STANDARD	397	78843	1	397
+Van Zandt County	Ben Wheeler	STANDARD	5,000	75754	1	5,000
+Van Zandt County	Canton	STANDARD	11,640	75103	1	11,640
+Van Zandt County	Edgewood	STANDARD	3,400	75117	1	3,400
+Van Zandt County	Fruitvale	STANDARD	1,370	75127	1	1,370
+Van Zandt County	Grand Saline	STANDARD	5,930	75140	1	5,930
+Van Zandt County	Van	STANDARD	4,370	75790	1	4,370
+Van Zandt County	Wills Point	STANDARD	12,390	75169	1	12,390
+Victoria County	Bloomington	PO BOX	2,348	77951	1	2,348
+Victoria County	Inez	STANDARD	2,870	77968	1	2,870
+Victoria County	Mcfaddin	PO BOX	20	77973	1	20
+Victoria County	Meyersville	STANDARD	460	77974	1	460
+Victoria County	Nursery	PO BOX	395	77976	1	395
+Victoria County	Placedo	PO BOX	671	77977	1	671
+Victoria County	Telferner	PO BOX	738	77988	1	738
+Victoria County	Victoria	PO BOX	3,400	77902	2	78,050
+		STANDARD	74,650	77901	3	
+Walker County	Dodge	PO BOX	561	77334	1	561
+Walker County	Huntsville	PO BOX	2,755	77342	1	40,119
+		STANDARD	37,230	77320	2	
+		UNIQUE	134	77341	5	
+Walker County	New Waverly	STANDARD	4,500	77358	1	4,500
+Walker County	Riverside	PO BOX	889	77367	1	889
+Waller County	Brookshire	STANDARD	10,880	77423	1	10,880
+Waller County	Hempstead	STANDARD	11,320	77445	1	11,320
+Waller County	Katy	PO BOX	1,591	77491	2	1,591
+Waller County	Pattison	PO BOX	893	77466	1	893
+Waller County	Prairie View	PO BOX	1,267	77446	1	1,267
+Waller County	Waller	STANDARD	11,260	77484	1	11,260
+Ward County	Barstow	PO BOX	299	79719	1	299
+Ward County	Grandfalls	PO BOX	448	79742	1	448
+Ward County	Monahans	STANDARD	9,520	79756	1	9,520
+Ward County	Pyote	PO BOX	172	79777	1	172
+Ward County	Wickett	PO BOX	402	79788	1	402
+Washington County	Brenham	PO BOX	1,871	77834	1	25,291
+		STANDARD	23,420	77833	1	
+Washington County	Burton	STANDARD	2,250	77835	1	2,250
+Washington County	Chappell Hill	STANDARD	1,880	77426	1	1,880
+Washington County	Washington	STANDARD	1,660	77880	1	1,660
+Webb County	Bruni	STANDARD	360	78344	1	360
+Webb County	Laredo	PO BOX	4,327	78042	2	254,967
+		STANDARD	250,640	78040	5	
+		UNIQUE	0	78049	1	
+Webb County	Mirando City	STANDARD	350	78369	1	350
+Webb County	Oilton	PO BOX	289	78371	1	289
+Wharton County	Boling	STANDARD	2,230	77420	1	2,230
+Wharton County	Danevang	STANDARD	455	77432	1	455
+Wharton County	East Bernard	STANDARD	4,860	77435	1	4,860
+Wharton County	Egypt	PO BOX	187	77436	1	187
+Wharton County	El Campo	STANDARD	16,610	77437	1	16,610
+Wharton County	Glen Flora	PO BOX	277	77443	1	277
+Wharton County	Hungerford	STANDARD	757	77448	1	757
+Wharton County	Lane City	PO BOX	400	77453	1	400
+Wharton County	Lissie	PO BOX	228	77454	1	228
+Wharton County	Louise	STANDARD	1,790	77455	1	1,790
+Wharton County	Pierce	PO BOX	108	77467	1	108
+Wharton County	Wharton	STANDARD	12,150	77488	1	12,150
+Wheeler County	Allison	PO BOX	157	79003	1	157
+Wheeler County	Briscoe	STANDARD	210	79011	1	210
+Wheeler County	Mobeetie	STANDARD	340	79061	1	340
+Wheeler County	Shamrock	STANDARD	2,450	79079	1	2,450
+Wheeler County	Wheeler	STANDARD	2,490	79096	1	2,490
+Wichita County	Burkburnett	STANDARD	10,290	76354	1	10,290
+Wichita County	Electra	STANDARD	2,420	76360	1	2,420
+Wichita County	Iowa Park	STANDARD	8,470	76367	1	8,470
+Wichita County	Kamay	PO BOX	211	76369	1	211
+Wichita County	Sheppard Afb	STANDARD	2,630	76311	1	2,630
+Wichita County	Wichita Falls	PO BOX	974	76307	1	86,504
+		STANDARD	85,530	76301	7	
+Wilbarger County	Harrold	STANDARD	198	76364	1	198
+Wilbarger County	Odell	STANDARD	47	79247	1	47
+Wilbarger County	Oklaunion	STANDARD	166	76373	1	166
+Wilbarger County	Vernon	PO BOX	767	76385	1	11,077
+		STANDARD	10,310	76384	1	
+Willacy County	Lasara	PO BOX	606	78561	1	606
+Willacy County	Lyford	STANDARD	3,660	78569	1	3,660
+Willacy County	Port Mansfield	PO BOX	270	78598	1	270
+Willacy County	Raymondville	STANDARD	9,900	78580	1	9,900
+Willacy County	San Perlita	PO BOX	427	78590	1	427
+Willacy County	Sebastian	PO BOX	1,978	78594	1	1,978
+Williamson County	Austin	STANDARD	54,450	78717	2	54,450
+Williamson County	Bartlett	STANDARD	1,980	76511	1	1,980
+Williamson County	Cedar Park	PO BOX	1,447	78630	1	76,277
+		STANDARD	74,830	78613	1	
+Williamson County	Coupland	STANDARD	1,250	78615	1	1,250
+Williamson County	Florence	STANDARD	3,960	76527	1	3,960
+Williamson County	Georgetown	PO BOX	1,911	78627	1	76,801
+		STANDARD	74,890	78626	3	
+Williamson County	Granger	STANDARD	2,250	76530	1	2,250
+Williamson County	Hutto	STANDARD	28,610	78634	1	28,610
+Williamson County	Jarrell	STANDARD	6,130	76537	1	6,130
+Williamson County	Leander	PO BOX	1,152	78646	1	53,412
+		STANDARD	52,260	78641	1	
+Williamson County	Liberty Hill	STANDARD	11,470	78642	1	11,470
+Williamson County	Mc Neil	PO BOX	60	78651	1	60
+Williamson County	Round Rock	PO BOX	1,727	78680	2	149,783
+		STANDARD	148,010	78664	3	
+		UNIQUE	46	78682	1	
+Williamson County	Schwertner	PO BOX	86	76573	1	86
+Williamson County	Taylor	STANDARD	16,750	76574	1	16,750
+Williamson County	Thrall	STANDARD	1,640	76578	1	1,640
+Williamson County	Walburg	PO BOX	142	78673	1	142
+Williamson County	Weir	PO BOX	427	78674	1	427
+Wilson County	Floresville	STANDARD	18,770	78114	1	18,770
+Wilson County	La Vernia	STANDARD	12,700	78121	1	12,700
+Wilson County	Pandora	PO BOX	60	78143	1	60
+Wilson County	Poth	PO BOX	2,094	78147	1	2,094
+Wilson County	Stockdale	STANDARD	3,700	78160	1	3,700
+Wilson County	Sutherland Springs	STANDARD	720	78161	1	720
+Winkler County	Kermit	STANDARD	6,530	79745	1	6,530
+Winkler County	Wink	PO BOX	878	79789	1	878
+Wise County	Alvord	STANDARD	3,010	76225	1	3,010
+Wise County	Boyd	STANDARD	5,580	76023	1	5,580
+Wise County	Bridgeport	STANDARD	10,270	76426	1	10,270
+Wise County	Chico	STANDARD	3,050	76431	1	3,050
+Wise County	Decatur	STANDARD	15,120	76234	1	15,120
+Wise County	Greenwood	PO BOX	96	76246	1	96
+Wise County	Newark	STANDARD	3,620	76071	1	3,620
+Wise County	Paradise	STANDARD	5,050	76073	1	5,050
+Wise County	Rhome	STANDARD	8,890	76078	1	8,890
+Wise County	Slidell	PO BOX	285	76267	1	285
+Wood County	Alba	STANDARD	3,800	75410	1	3,800
+Wood County	Golden	PO BOX	483	75444	1	483
+Wood County	Hawkins	STANDARD	5,950	75765	1	5,950
+Wood County	Mineola	STANDARD	10,660	75773	1	10,660
+Wood County	Quitman	STANDARD	6,200	75783	1	6,200
+Wood County	Winnsboro	STANDARD	8,940	75494	1	8,940
+Wood County	Yantis	STANDARD	2,860	75497	1	2,860
+Yoakum County	Denver City	STANDARD	7,260	79323	1	7,260
+Yoakum County	Plains	STANDARD	1,920	79355	1	1,920
+Yoakum County	Tokio	STANDARD	119	79376	1	119
+Young County	Graham	STANDARD	12,030	76450	1	12,030
+Young County	Loving	STANDARD	380	76460	1	380
+Young County	Newcastle	STANDARD	770	76372	1	770
+Young County	Olney	STANDARD	3,400	76374	1	3,400
+Young County	South Bend	STANDARD	166	76481	1	166
+Zapata County	Lopeno	STANDARD	257	78564	1	257
+Zapata County	San Ygnacio	STANDARD	700	78067	1	700
+Zapata County	Zapata	STANDARD	11,170	78076	1	11,170
+Zavala County	Batesville	STANDARD	1,020	78829	1	1,020
+Zavala County	Crystal City	STANDARD	7,650	78839	1	7,650
+Zavala County	La Pryor	PO BOX	1,641	78872	1	1,641
