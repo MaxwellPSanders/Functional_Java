@@ -1,0 +1,45 @@
+Type	Address	City	Zip	Price	Beds	Baths	Location	Sqft	Lot size	YrBlt	DOM	$/SqFt	HOA/mth	Rank Grp	Percnt SqFt
+Single Family Residential	1008 Judy St	White Settlement	76108	$175,000	3.0	2.0	Sunview Add	1,804	7,405	2002	45	$97	$0	3	82.0
+Single Family Residential	10133 Blue Bell Dr	Fort Worth	76108	$180,000	4.0	2.0	Falcon Ridge	2,050	6,490	2013	3	$88	$0	1	74.4
+Single Family Residential	1021 Maidenhair Ln	Crowley	76036	$169,999	3.0	2.0	Lasater Ranch	1,814	7,797	2005	84	$94	$17	3	84.4
+Single Family Residential	10229 Dawson Trl	Fort Worth	76108	$179,500	3.0	2.5	Westview Add	2,055	5,097	2001	7	$87	$0	3	73.6
+Single Family Residential	1108 Mourning Dove Dr	Burleson	76028	$175,000	3.0	2.0	West Bend South	1,786	7,013	2006	4	$98	$17	3	83.5
+Single Family Residential	1112 Switchgrass Ln	Crowley	76036	$194,700	4.0	2.0	Lasater Ranch	1,988	7,187	2006	21	$98	$17	3	88.0
+Single Family Residential	1205 Gayle St	Burleson	76028	$184,900	4.0	2.0	Jm Wells Add	2,085	5,968	2007	18	$89	$23	1	75.9
+Single Family Residential	1208 Sierra Blanca Dr	Fort Worth	76028	$193,000	3.0	2.0	Deer Meadow Add	1,772	6,011	2006	4	$109	$11	3	92.9
+Single Family Residential	1333 Dandelion Trl	Burleson	76028	$169,900	3.0	2.0	Burleson Meadows	1,789	6,839	2003	56	$95	$0	3	81.0
+Single Family Residential	13820 Canyon Ranch Rd	Fort Worth	76262	$199,900	4.0	2.5	Lost Creek Ranch North Add	2,420	5,314	2004	40	$83	$0	3	55.3
+Single Family Residential	1625 Baxter Springs Dr	Fort Worth	76247	$182,000	4.0	2.0	Harriet Creek Ranch Ph 3	2,093	5,663	2005	1	$87	$24	3	84.1
+Single Family Residential	16333 Cowboy Trl	Fort Worth	76247	$179,500	3.0	2.0	Harriet Creek Ranch Ph 2	1,860	6,534	2008	1	$97	$24	1	93.8
+Single Family Residential	1913 Stonehill Dr	Fort Worth	76247	$196,000	4.0	2.0	Harriet Creek Ranch Ph 1	2,136	7,971	2004	1	$92	$25	3	88.9
+Single Family Residential	204 Centennial Pl	Crowley	76036	$192,000	4.0	2.5	Centennial Place Add	2,218	8,712	2002	4	$87	$0	3	78.1
+Single Family Residential	2117 Biggs St	Fort Worth	76177	$189,900	3.0	2.0	Presidio Village	1,759	5,750	2006	29	$108	$21	3	89.9
+Single Family Residential	2633 Ensenada Ln	Fort Worth	76108	$195,000	4.0	2.5	Little Chapel Creek Add	2,155	5,532	2002	26	$90	$0	3	76.1
+Single Family Residential	3212 Muleshoe Ln	Fort Worth	76179	$195,000	3.0	2.0	Ranch At Eagle Mountain Add	1,832	6,534	2001	32	$106	$21	3	97.8
+Single Family Residential	3800 Berrybush Ln	Fort Worth	76137	$199,900	3.0	2.0	Summerfields Add	2,054	7,841	2000	4	$97	$0	3	92.2
+Single Family Residential	400 Reagan Ln	Burleson	76028	$199,900	3.0	2.0	Elk Ridge Estates	1,857	8,494	2004	11	$108	$0	3	92.0
+Single Family Residential	4805 Barnhill Ln	Fort Worth	76135	$179,900	3.0	2.5	Marine Creek Estates Add	1,980	5,619	2002	4	$91	$25	3	69.3
+Single Family Residential	5021 Lake Valley Ct	Fort Worth	76123	$170,000	4.0	2.0	Trail Lake Estates	1,866	9,583	2004	6	$91	$0	3	90.7
+Single Family Residential	5425 Parkview Hills Ln	Fort Worth	76179	$194,900	4.0	2.0	Parkview Hills	1,833	6,186	2008	157	$106	$12	1	97.8
+Single Family Residential	5804 Downs Dr	Fort Worth	76179	$189,900	4.0	2.0	Remington Point Add	2,020	5,489	2005	22	$94	$28	4	86.8
+Single Family Residential	5933 Houghton Ave	Fort Worth	76107	$156,750	4.0	2.0	Chamberlain Arlington Heights 2nd	2,000	6,273	2007	7	$78	$0	1	35.3
+Single Family Residential	6220 Trinity Creek Dr	Fort Worth	76179	$199,900	4.0	2.0	Stone Creek Ranch	1,954	6,534	2005	6	$102	$27	4	94.1
+Single Family Residential	640 Granite Ridge Dr	Fort Worth	76179	$194,900	3.0	2.5	Quarry The	2,446	5,619	2004	37	$80	$28	4	73.8
+Single Family Residential	6501 Meadow Way Ln	Fort Worth	76179	$170,000	3.0	2.5	Parkview Hills	1,792	8,059	2006	1	$95	$12	3	87.7
+Single Family Residential	6513 Sierra Madre Dr	Fort Worth	76179	$189,900	4.0	2.0	Ranch At Eagle Mountain Add	1,804	5,009	2004	12	$105	$21	3	96.9
+Single Family Residential	6517 Manitoba St	Fort Worth	76179	$195,000	4.0	2.0	Marine Creek Hills Add	1,876	5,663	2008	5	$104	$0	1	96.0
+Single Family Residential	6620 Sierra Madre Dr	Fort Worth	76179	$199,500	3.0	2.0	Ranch At Eagle Mountain Add	1,824	5,227	2004	51	$109	$21	3	100.6
+Single Family Residential	6756 Meadow Way Ln	Fort Worth	76179	$190,000	4.0	2.0	Parkview Hills	1,950	6,534	2005	6	$97	$13	3	89.5
+Single Family Residential	7128 Little Mohican Dr	Fort Worth	76179	$198,000	3.0	2.5	Cheyenne Ridge	2,308	5,489	2007	4	$86	$24	1	79.4
+Single Family Residential	729 Summercrest Blvd	Burleson	76028	$199,900	3.0	2.0	Creekside Add Ph 04	1,890	8,102	2002	39	$106	$0	3	90.3
+Single Family Residential	7624 Scarlet View Trl	Fort Worth	76131	$199,000	3.0	2.0	Basswood Village	2,028	5,227	2006	3	$98	$16	3	87.5
+Single Family Residential	7736 Galemeadow Ct	Fort Worth	76123	$195,000	3.0	2.0	Sundance Spgs Add	1,877	6,534	2017	5	$104	$15	1	103.6
+Single Family Residential	816 Silverbrook Dr	Saginaw	76179	$199,999	3.0	2.0	Whisperwood Estates Add	1,992	5,968	2001	29	$100	$0	3	92.3
+Single Family Residential	8309 Sussex St	White Settlement	76108	$199,000	4.0	2.5	Meadow Park Add	1,921	5,750	2006	6	$104	$0	3	88.0
+Single Family Residential	8424 Minturn Dr	Fort Worth	76131	$184,900	3.0	2.0	Lasater Add	1,751	7,405	2003	11	$106	$8	3	94.6
+Single Family Residential	8433 Asheville Ln	Fort Worth	76123	$169,000	3.0	2.0	Meadow Creek South Add	1,768	5,663	2003	1	$96	$20	3	95.7
+Single Family Residential	8540 Minturn Dr	Fort Worth	76131	$185,000	3.0	2.0	Lasater Add	1,852	9,845	2006	3	$100	$0	3	89.3
+Single Family Residential	8545 Shallow Creek Dr	Fort Worth	76179	$196,500	3.0	2.0	Boswell Meadows	2,220	6,578	2008	41	$89	$13	1	82.1
+Single Family Residential	927 Aaron Dr	Burleson	76028	$199,900	4.0	2.0	Alsbury Estates East Ph 02	1,968	6,752	2002	25	$102	$0	3	86.9
+Single Family Residential	9729 Parkmere Dr	Fort Worth	76108	$193,000	3.0	2.5	Settlement Plaza Add	2,031	6,098	2001	6	$95	$0	3	80.4
+Single Family Residential	9736 Parkmere Dr	Fort Worth	76108	$169,900	3.0	2.5	Settlement Plaza Add	1,767	6,098	2001	4	$96	$0	3	81.2
